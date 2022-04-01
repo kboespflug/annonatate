@@ -1,0 +1,45 @@
+---
+canvas: "https://kboespflug.github.io/annonatate/img/derivatives/iiif/Group/canvas/Group-1"
+order: 4
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Mary",
+            "purpose": "commenting",
+            "creator": {
+                "id": "kboespflug",
+                "name": "kboespflug"
+            },
+            "created": "2022-04-01T06:05:50.135Z",
+            "modified": "2022-04-01T06:05:50.619Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "girl",
+            "purpose": "tagging",
+            "creator": {
+                "id": "kboespflug",
+                "name": "kboespflug"
+            },
+            "created": "2022-04-01T06:05:54.884Z",
+            "modified": "2022-04-01T06:05:55.222Z"
+        }
+    ],
+    "target": {
+        "source": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/Group/canvas/Group-1",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><ellipse cx=\"561.2135620117188\" cy=\"1284.1332397460938\" rx=\"59.45452880859375\" ry=\"214.90911865234375\"></ellipse></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/Group/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "0cd556f3-380d-4c0d-9aa2-30513204a74e.json",
+    "motivation": "commenting"
+}
