@@ -1,8 +1,9 @@
 ---
+layout: none
 ---
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/Dragons/manifest.json",
+  "id": "{{ '/' | absolute_url }}img/derivatives/iiif/Dragons/manifest.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -20,7 +21,7 @@
   "viewingDirection": "left-to-right",
   "items": [
     {
-      "id": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/Dragons/canvas/Dragons-1",
+      "id": "{{ '/' | absolute_url }}img/derivatives/iiif/Dragons/canvas/Dragons-1",
       "type": "Canvas",
       "label": {
         "en": [
@@ -29,7 +30,7 @@
       },
       "thumbnail": [
         {
-          "id": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/Dragons/DragonGrey/full/162,/0/default.jpg",
+          "id": "{{ '/' | absolute_url }}img/derivatives/iiif/Dragons/DragonGrey/full/162,/0/default.jpg",
           "type": "thumbnail"
         }
       ],
@@ -37,30 +38,37 @@
       "width": 648,
       "items": [
         {
-          "id": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/Dragons/page/p1/1",
+          "id": "{{ '/' | absolute_url }}img/derivatives/iiif/Dragons/page/p1/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/Dragons/annotation/p0001-image",
+              "id": "{{ '/' | absolute_url }}img/derivatives/iiif/Dragons/annotation/p0001-image",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/Dragons/DragonGrey/full/full/0/default.jpg",
+                "id": "{{ '/' | absolute_url }}img/derivatives/iiif/Dragons/DragonGrey/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 738,
                 "width": 648,
                 "service": [
                   {
-                    "id": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/Dragons/DragonGrey",
+                    "id": "{{ '/' | absolute_url }}img/derivatives/iiif/Dragons/DragonGrey",
                     "type": "ImageService2",
                     "profile": "level1"
                   }
                 ]
               },
-              "target": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/Dragons/canvas/Dragons-1"
+              "target": "{{ '/' | absolute_url }}img/derivatives/iiif/Dragons/canvas/Dragons-1"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "{{ '/' | absolute_url }}annotations/dragons-1-list.json",
+          "type": "AnnotationPage",
+          "target": "{{ '/' | absolute_url }}img/derivatives/iiif/Dragons/canvas/Dragons-1"
         }
       ]
     }
