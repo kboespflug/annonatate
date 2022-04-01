@@ -1,0 +1,46 @@
+---
+canvas: "https://kboespflug.github.io/annonatate/img/derivatives/iiif/Group/canvas/Group-1"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Emma",
+            "purpose": "commenting",
+            "creator": {
+                "id": "kboespflug",
+                "name": "kboespflug"
+            },
+            "created": "2022-04-01T06:05:06.457Z",
+            "modified": "2022-04-01T06:05:06.872Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "girl",
+            "purpose": "tagging",
+            "creator": {
+                "id": "kboespflug",
+                "name": "kboespflug"
+            },
+            "created": "2022-04-01T06:05:09.406Z",
+            "modified": "2022-04-01T06:05:09.746Z"
+        }
+    ],
+    "target": {
+        "source": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/Group/canvas/Group-1",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=641.03173828125,1067.2239990234375,110.18182373046875,404.727294921875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/Group/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8a984c53-3094-48c7-81b4-4a6e81f70931.json",
+    "motivation": "commenting"
+}
