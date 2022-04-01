@@ -1,0 +1,45 @@
+---
+canvas: "https://kboespflug.github.io/annonatate/img/derivatives/iiif/Dragons/canvas/Dragons-1"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Fierce eyes",
+            "purpose": "commenting",
+            "creator": {
+                "id": "kboespflug",
+                "name": "kboespflug"
+            },
+            "created": "2022-04-01T07:29:58.024Z",
+            "modified": "2022-04-01T07:30:00.804Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "features",
+            "purpose": "tagging",
+            "creator": {
+                "id": "kboespflug",
+                "name": "kboespflug"
+            },
+            "created": "2022-04-01T07:30:04.610Z",
+            "modified": "2022-04-01T07:30:05.361Z"
+        }
+    ],
+    "target": {
+        "source": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/Dragons/canvas/Dragons-1",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><ellipse cx=\"356.3666534423828\" cy=\"179.70501708984375\" rx=\"73.18180847167969\" ry=\"30.909088134765625\"></ellipse></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/Dragons/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f86293d1-ae31-453c-ac34-330c5c5e394c.json",
+    "motivation": "commenting"
+}
