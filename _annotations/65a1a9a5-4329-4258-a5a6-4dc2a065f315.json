@@ -1,0 +1,46 @@
+---
+canvas: "https://kboespflug.github.io/annonatate/img/derivatives/iiif/Dragon/canvas/Dragon-1"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Meeting a dragon",
+            "purpose": "commenting",
+            "creator": {
+                "id": "kboespflug",
+                "name": "kboespflug"
+            },
+            "created": "2022-04-21T15:34:51.851Z",
+            "modified": "2022-04-21T15:34:57.101Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "dragon",
+            "purpose": "tagging",
+            "creator": {
+                "id": "kboespflug",
+                "name": "kboespflug"
+            },
+            "created": "2022-04-21T15:35:00.884Z",
+            "modified": "2022-04-21T15:35:01.522Z"
+        }
+    ],
+    "target": {
+        "source": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/Dragon/canvas/Dragon-1",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=273.40826416015625,2038.33740234375,2006.5812377929688,1006.548095703125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/Dragon/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "65a1a9a5-4329-4258-a5a6-4dc2a065f315.json",
+    "motivation": "commenting"
+}
