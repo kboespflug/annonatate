@@ -1,0 +1,71 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/KingRichard//WellcomeKingRichard",
+  "height": 3230,
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "formats": [
+        "jpg"
+      ],
+      "qualities": [
+        "default"
+      ]
+    }
+  ],
+  "protocol": "http://iiif.io/api/image",
+  "sizes": [
+    {
+      "height": 404,
+      "width": 271
+    },
+    {
+      "height": 202,
+      "width": 135
+    },
+    {
+      "height": 101,
+      "width": 68
+    },
+    {
+      "height": 50,
+      "width": 34
+    },
+    {
+      "height": 25,
+      "width": 17
+    },
+    {
+      "height": 13,
+      "width": 8
+    },
+    {
+      "height": 6,
+      "width": 4
+    },
+    {
+      "height": 3,
+      "width": 2
+    },
+    {
+      "height": 2,
+      "width": 1
+    },
+    {
+      "height": 1,
+      "width": 1
+    }
+  ],
+  "tiles": [
+    {
+      "height": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4
+      ],
+      "width": 512
+    }
+  ],
+  "width": 2166
+}
