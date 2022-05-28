@@ -1,0 +1,158 @@
+---
+---
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/ShakespearePortrait/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "ShakespearePortrait"
+    ]
+  },
+  "summary": {
+    "en": [
+      ""
+    ]
+  },
+  "behavior": [
+    "paged"
+  ],
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/ShakespearePortrait/canvas/ShakespearePortrait-1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "WellcomeShakespearePortrait"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/ShakespearePortrait/WellcomeShakespearePortrait-0/full/103,/0/default.jpg",
+          "type": "thumbnail"
+        }
+      ],
+      "height": 2339,
+      "width": 1654,
+      "items": [
+        {
+          "id": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/ShakespearePortrait/page/p1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/ShakespearePortrait/annotation/p0001-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/ShakespearePortrait/WellcomeShakespearePortrait-0/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2339,
+                "width": 1654,
+                "service": [
+                  {
+                    "id": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/ShakespearePortrait/WellcomeShakespearePortrait-0",
+                    "type": "ImageService2",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/ShakespearePortrait/canvas/ShakespearePortrait-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/ShakespearePortrait/canvas/ShakespearePortrait-2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "WellcomeShakespearePortrait"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/ShakespearePortrait/WellcomeShakespearePortrait-1/full/103,/0/default.jpg",
+          "type": "thumbnail"
+        }
+      ],
+      "height": 2339,
+      "width": 1654,
+      "items": [
+        {
+          "id": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/ShakespearePortrait/page/p2/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/ShakespearePortrait/annotation/p0002-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/ShakespearePortrait/WellcomeShakespearePortrait-1/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2339,
+                "width": 1654,
+                "service": [
+                  {
+                    "id": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/ShakespearePortrait/WellcomeShakespearePortrait-1",
+                    "type": "ImageService2",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/ShakespearePortrait/canvas/ShakespearePortrait-2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/ShakespearePortrait/canvas/ShakespearePortrait-3",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "WellcomeShakespearePortrait"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/ShakespearePortrait/WellcomeShakespearePortrait-2/full/103,/0/default.jpg",
+          "type": "thumbnail"
+        }
+      ],
+      "height": 2339,
+      "width": 1654,
+      "items": [
+        {
+          "id": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/ShakespearePortrait/page/p3/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/ShakespearePortrait/annotation/p0003-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/ShakespearePortrait/WellcomeShakespearePortrait-2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2339,
+                "width": 1654,
+                "service": [
+                  {
+                    "id": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/ShakespearePortrait/WellcomeShakespearePortrait-2",
+                    "type": "ImageService2",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/ShakespearePortrait/canvas/ShakespearePortrait-3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
