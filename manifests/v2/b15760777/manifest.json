@@ -1,0 +1,188 @@
+---
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://kboespflug.github.io/annonatate/manifests/v2/b15760777/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "Macbeth, Shakespeare: the three witches. Mezzotint by J.R. Smith, 1785, after H. Fuseli, 1783.",
+  "metadata": [
+    {
+      "label": "Description",
+      "value": "<p>When William Shakespeare wrote his play Macbeth, around 1605,  there were frequent outbreaks of fear in Europe about the dangers arising from witchcraft. The three witches who open the play seemed to many perfectly credible beings, greatly to be feared and, if possible, to be destroyed. The mixture that Shakespeare's witches claim to make up in the play, from a toad, a Jew's liver, the finger of a child strangled at birth, etc. raises up evil spirits of the kind that were believed to work in cahoots with the devil and to cause illness and death, wasting of crops, shipwrecks and stillbirths. Even after a literal belief in witches became confined to the least educated and least powerful, the witch remained a potent figure in the culture of the elite. The ghastly witches are accompanied on the left by a deathshead moth, a moth with markings resembling a skull on its back</p>"
+    },
+    {
+      "label": "Publication/creation",
+      "value": "London (83 Oxford Street) : J.R. Smith, 10 March 1785."
+    },
+    {
+      "label": "Physical description",
+      "value": "1 print : mezzotint ; image 43.9 x 53.5 cm"
+    },
+    {
+      "label": "Contributors",
+      "value": "Fuseli, Henry, 1741-1825.; Smith, John Raphael, 1752-1812."
+    },
+    {
+      "label": "Creator/production credits",
+      "value": "This striking portrayal of Shakespeare's witches was produced in 1783 by the Swiss painter Henry Fuseli. Fuseli painted horrific and macabre scenes, taking his inspiration from  gothic and late mediaeval tales. His paintings were published through mezzotints such as this one, published in 1785: mezzotint is a printmaking technique that is ideal for gloomy and mysterious subjects, especially night-scenes"
+    },
+    {
+      "label": "Type/technique",
+      "value": "Mezzotints"
+    },
+    {
+      "label": "Lettering",
+      "value": "The weird sisters ; painted by H. Fuseli ; engraved by J.R. Smith"
+    },
+    {
+      "label": "Publications note",
+      "value": "Martin Myrone, Gothic nightmares: Fuseli, Blake and the romantic imagination, London: Tate, 2006, p. 130, no. 80 (the painting and reference to this print)"
+    },
+    {
+      "label": "Reference",
+      "value": "Wellcome Library no. 576077i"
+    },
+    {
+      "label": "Attribution",
+      "value": "Wellcome Collection"
+    },
+    {
+      "label": "Full conditions of use",
+      "value": "<span>You have permission to make copies of this work under a <a target=\"_top\" href=\"http://creativecommons.org/licenses/by-nc/4.0/\">Creative Commons, Attribution, Non-commercial license</a>.<br/><br/>Non-commercial use includes private study, academic research, teaching, and other activities that are not primarily intended for, or directed towards, commercial advantage or private monetary compensation. See the <a target=\"_top\" href=\"http://creativecommons.org/licenses/by-nc/4.0/legalcode\">Legal Code</a> for further information.<br/><br/>Image source should be attributed as specified in the full catalogue record. If no source is given the image should be attributed to Wellcome Collection.</span>"
+    }
+  ],
+  "description": "<p>When William Shakespeare wrote his play Macbeth, around 1605,  there were frequent outbreaks of fear in Europe about the dangers arising from witchcraft. The three witches who open the play seemed to many perfectly credible beings, greatly to be feared and, if possible, to be destroyed. The mixture that Shakespeare's witches claim to make up in the play, from a toad, a Jew's liver, the finger of a child strangled at birth, etc. raises up evil spirits of the kind that were believed to work in cahoots with the devil and to cause illness and death, wasting of crops, shipwrecks and stillbirths. Even after a literal belief in witches became confined to the least educated and least powerful, the witch remained a potent figure in the culture of the elite. The ghastly witches are accompanied on the left by a deathshead moth, a moth with markings resembling a skull on its back</p>",
+  "thumbnail": {
+    "@id": "https://iiif.wellcomecollection.org/thumbs/b15760777_V0044814-LH-LH.jp2/full/100,79/0/default.jpg",
+    "@type": "dctypes:Image",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://iiif.wellcomecollection.org/thumbs/b15760777_V0044814-LH-LH.jp2",
+      "profile": "http://iiif.io/api/image/2/level0.json",
+      "protocol": "http://iiif.io/api/image",
+      "width": 1024,
+      "height": 807,
+      "sizes": [
+        {
+          "width": 100,
+          "height": 79
+        },
+        {
+          "width": 200,
+          "height": 158
+        },
+        {
+          "width": 400,
+          "height": 315
+        },
+        {
+          "width": 1024,
+          "height": 807
+        }
+      ]
+    }
+  },
+  "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+  "logo": "https://iiif.wellcomecollection.org/logos/wellcome-collection-black.png",
+  "related": {
+    "@id": "https://wellcomecollection.org/works/c5qzqasx",
+    "format": "text/html",
+    "label": "Macbeth, Shakespeare: the three witches. Mezzotint by J.R. Smith, 1785, after H. Fuseli, 1783."
+  },
+  "seeAlso": {
+    "@id": "https://api.wellcomecollection.org/catalogue/v2/works/c5qzqasx",
+    "profile": "https://api.wellcomecollection.org/catalogue/v2/context.json",
+    "format": "application/json",
+    "label": "Wellcome Collection Catalogue API"
+  },
+  "service": [
+    {
+      "@context": "http://universalviewer.io/context.json",
+      "@id": "http://wellcomelibrary.org/service/trackingLabels/b15760777",
+      "profile": "http://universalviewer.io/tracking-extensions-profile",
+      "trackingLabel": "Format: Artwork, Institution: n/a, Identifier: b15760777, Digicode: digicon, Collection code: n/a"
+    },
+    {
+      "@context": "http://wellcomelibrary.org/ld/iiif-ext/0/context.json",
+      "@id": "https://wellcomelibrary.org/iiif/b15760777/access-control-hints-service",
+      "profile": "http://wellcomelibrary.org/ld/iiif-ext/access-control-hints",
+      "accessHint": "open"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://iiif.wellcomecollection.org/presentation/v2/b15760777/sequences/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence s0",
+      "rendering": {
+        "@id": "https://iiif.wellcomecollection.org/pdf/b15760777",
+        "label": "View as PDF",
+        "format": "application/pdf"
+      },
+      "canvases": [
+        {
+          "@id": "https://iiif.wellcomecollection.org/presentation/b15760777/canvases/b15760777_V0044814-LH-LH.jp2",
+          "@type": "sc:Canvas",
+          "label": "-",
+          "thumbnail": {
+            "@id": "https://iiif.wellcomecollection.org/thumbs/b15760777_V0044814-LH-LH.jp2/full/100,79/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.wellcomecollection.org/thumbs/b15760777_V0044814-LH-LH.jp2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "protocol": "http://iiif.io/api/image",
+              "width": 1024,
+              "height": 807,
+              "sizes": [
+                {
+                  "width": 100,
+                  "height": 79
+                },
+                {
+                  "width": 200,
+                  "height": 158
+                },
+                {
+                  "width": 400,
+                  "height": 315
+                },
+                {
+                  "width": 1024,
+                  "height": 807
+                }
+              ]
+            }
+          },
+          "height": 2418,
+          "width": 3070,
+          "images": [
+            {
+              "@id": "https://iiif.wellcomecollection.org/presentation/b15760777/canvases/b15760777_V0044814-LH-LH.jp2/painting/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.wellcomecollection.org/image/b15760777_V0044814-LH-LH.jp2/full/1024,807/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 807,
+                "width": 1024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.wellcomecollection.org/image/b15760777_V0044814-LH-LH.jp2",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image",
+                  "width": 3070,
+                  "height": 2418
+                }
+              },
+              "on": "https://iiif.wellcomecollection.org/presentation/b15760777/canvases/b15760777_V0044814-LH-LH.jp2"
+            }
+          ],
+          "within": ""
+        }
+      ]
+    }
+  ],
+  "within": "https://iiif.wellcomecollection.org/presentation/v2/collections/contributors/f8h2xxgy"
+}
