@@ -6,44 +6,44 @@
   "@type": "sc:Manifest",
   "attribution": "<p>Images provided here are believed to be in the public domain and are available under the terms of the Getty&rsquo;s <a href=\"http://www.getty.edu/about/opencontent.html\"> Open Content Program</a>.  Texts provided here are \u00a9 J. Paul Getty Trust, licensed under <a href=\"https://creativecommons.org/licenses/by/4.0/legalcode\"> CC BY 4.0</a>. Terms of use for the Getty logo can be found <a href=\"http://www.getty.edu/legal/copyright.html#logo\"> here</a>.</p>",
   "description": [
-    "<p>A statue of William Shakespeare resting against a small pedestal set on a larger pedestal, with an inscription carved on the side. The statue is on a round base enclosed by a low fence. A man is sitting on a bench in front of the statue.</p>"
+    "<p>A man on the back of a white horse, standing outside of a cottage. A second man is leaning on the cottage's fence, facing the road.</p>"
   ],
-  "label": "[Statue of William Shakespeare, Leicester Square]",
+  "label": "Mary Arden's Cottage",
   "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
   "logo": "https://www.getty.edu/global/images/getty_logo_primary_blk.png",
   "metadata": [
     {
       "label": "Artist/Maker",
       "value": [
-        "Unknown maker, French"
+        "Dr. James Leon Williams (American, 1852 - 1920)"
       ]
     },
     {
       "label": "Title",
-      "value": "[Statue of William Shakespeare, Leicester Square]"
+      "value": "Mary Arden's Cottage"
     },
     {
       "label": "Date",
       "value": [
-        "about 1890s"
+        "about 1891\u20131892"
       ]
     },
     {
       "label": "Material",
       "value": [
-        "Gelatin silver print"
+        "Photogravure"
       ]
     },
     {
       "label": "Dimensions",
       "value": [
-        "8.1 \u00d7 11 cm (3 3/16 \u00d7 4 5/16 in.)"
+        "18.9 \u00d7 24.5 cm (7 7/16 \u00d7 9 5/8 in.)"
       ]
     },
     {
       "label": "Accession Number",
       "value": [
-        "84.XP.1416.115"
+        "84.XP.769.34"
       ]
     },
     {
@@ -56,41 +56,41 @@
     },
     {
       "label": "Date Modified",
-      "value": "2022-04-05T03:00:03.512404"
+      "value": "2022-04-05T03:53:31.063939"
     }
   ],
-  "related": "https://www.getty.edu/art/collection/object/104C1B",
+  "related": "https://www.getty.edu/art/collection/object/10492E",
   "seeAlso": {
-    "@id": "https://data.getty.edu/museum/collection/object/ad72bd3e-8171-42a4-ab3e-3d5a1b791ecd",
+    "@id": "https://data.getty.edu/museum/collection/object/4a07c95e-1344-4088-af4b-e93b35f4c27b",
     "format": "application/ld+json",
     "profile": "https://static.getty.edu/contexts/linked.art/ns/v1.1.0/linked-art.json"
   },
   "sequences": [
     {
-      "@id": "https://media.getty.edu/iiif/manifest/321073d7-970f-4374-975d-e4ada00e2441/default",
+      "@id": "https://media.getty.edu/iiif/manifest/92ae7c48-992b-4a4b-8e6c-22a522ce5be2/default",
       "@type": "sc:Sequence",
       "canvases": [
         {
-          "@id": "https://media.getty.edu/iiif/pres/canvas/bf932f6d-e7ab-4672-873d-3e0d9789ad5a.json",
+          "@id": "https://media.getty.edu/iiif/pres/canvas/490ee629-1378-49df-8bf2-bbf4d3b2dfa6.json",
           "@type": "sc:Canvas",
-          "height": 5908,
+          "height": 4705,
           "images": [
             {
-              "@id": "https://media.getty.edu/iiif/pres/annotation/anno-bf932f6d-e7ab-4672-873d-3e0d9789ad5a.json",
+              "@id": "https://media.getty.edu/iiif/pres/annotation/anno-490ee629-1378-49df-8bf2-bbf4d3b2dfa6.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://media.getty.edu/iiif/pres/canvas/bf932f6d-e7ab-4672-873d-3e0d9789ad5a.json",
+              "on": "https://media.getty.edu/iiif/pres/canvas/490ee629-1378-49df-8bf2-bbf4d3b2dfa6.json",
               "resource": {
-                "@id": "https://media.getty.edu/iiif/image/bf932f6d-e7ab-4672-873d-3e0d9789ad5a/full/full/0/default.jpg",
+                "@id": "https://media.getty.edu/iiif/image/490ee629-1378-49df-8bf2-bbf4d3b2dfa6/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": 5908,
+                "height": 4705,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://media.getty.edu/iiif/image/bf932f6d-e7ab-4672-873d-3e0d9789ad5a",
+                  "@id": "https://media.getty.edu/iiif/image/490ee629-1378-49df-8bf2-bbf4d3b2dfa6",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 },
-                "width": 4552
+                "width": 6042
               }
             }
           ],
@@ -103,33 +103,33 @@
             }
           ],
           "thumbnail": {
-            "@id": "https://media.getty.edu/iiif/image/bf932f6d-e7ab-4672-873d-3e0d9789ad5a/full/!600,600/0/default.jpg",
+            "@id": "https://media.getty.edu/iiif/image/490ee629-1378-49df-8bf2-bbf4d3b2dfa6/full/!600,600/0/default.jpg",
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "height": 600,
             "label": "Full Front",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://media.getty.edu/iiif/image/bf932f6d-e7ab-4672-873d-3e0d9789ad5a",
+              "@id": "https://media.getty.edu/iiif/image/490ee629-1378-49df-8bf2-bbf4d3b2dfa6",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "width": 600
           },
-          "width": 4552
+          "width": 6042
         }
       ],
       "label": "Default range",
-      "startCanvas": "https://media.getty.edu/iiif/pres/canvas/bf932f6d-e7ab-4672-873d-3e0d9789ad5a.json"
+      "startCanvas": "https://media.getty.edu/iiif/pres/canvas/490ee629-1378-49df-8bf2-bbf4d3b2dfa6.json"
     }
   ],
   "thumbnail": {
-    "@id": "https://media.getty.edu/iiif/image/bf932f6d-e7ab-4672-873d-3e0d9789ad5a/full/!600,600/0/default.jpg",
+    "@id": "https://media.getty.edu/iiif/image/490ee629-1378-49df-8bf2-bbf4d3b2dfa6/full/!600,600/0/default.jpg",
     "@type": "dctypes:Image",
     "format": "image/jpeg",
     "label": "Full Front",
     "service": {
       "@context": "http://iiif.io/api/image/2/context.json",
-      "@id": "https://media.getty.edu/iiif/image/bf932f6d-e7ab-4672-873d-3e0d9789ad5a",
+      "@id": "https://media.getty.edu/iiif/image/490ee629-1378-49df-8bf2-bbf4d3b2dfa6",
       "profile": "http://iiif.io/api/image/2/level2.json"
     }
   }
