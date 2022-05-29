@@ -6,9 +6,9 @@
   "@type": "sc:Manifest",
   "attribution": "<p>Images provided here are believed to be in the public domain and are available under the terms of the Getty&rsquo;s <a href=\"http://www.getty.edu/about/opencontent.html\"> Open Content Program</a>.  Texts provided here are \u00a9 J. Paul Getty Trust, licensed under <a href=\"https://creativecommons.org/licenses/by/4.0/legalcode\"> CC BY 4.0</a>. Terms of use for the Getty logo can be found <a href=\"http://www.getty.edu/legal/copyright.html#logo\"> here</a>.</p>",
   "description": [
-    "<p>View looking out toward Guild Chapel, a large building with a rectangular tower and crenellated roof. The foundation and some remains of New Place, William Shakespeare's house, can be seen in the foreground.</p>"
+    "<p>Interior of the chancel of the Church of the Holy Trinity, Stratford-upon-Avon. Shakespeare's tomb can be seen at the far end of the chancel below a large stained-glass window.</p>"
   ],
-  "label": "Guild Chapel and Vestiges of New Place, Stratford on Avon",
+  "label": "Shakespeare's Tomb - The Chancel, Stratford on Avon Church",
   "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
   "logo": "https://www.getty.edu/global/images/getty_logo_primary_blk.png",
   "metadata": [
@@ -20,7 +20,7 @@
     },
     {
       "label": "Title",
-      "value": "Guild Chapel and Vestiges of New Place, Stratford on Avon"
+      "value": "Shakespeare's Tomb - The Chancel, Stratford on Avon Church"
     },
     {
       "label": "Date",
@@ -43,7 +43,7 @@
     {
       "label": "Accession Number",
       "value": [
-        "84.XB.1115.3"
+        "84.XB.1115.2"
       ]
     },
     {
@@ -56,41 +56,41 @@
     },
     {
       "label": "Date Modified",
-      "value": "2022-04-05T03:59:39.829386"
+      "value": "2022-04-05T01:17:06.338463"
     }
   ],
-  "related": "https://www.getty.edu/art/collection/object/108XY9",
+  "related": "https://www.getty.edu/art/collection/object/108XY7",
   "seeAlso": {
-    "@id": "https://data.getty.edu/museum/collection/object/16694129-2a8f-4e12-8de6-6598978037ea",
+    "@id": "https://data.getty.edu/museum/collection/object/fb89f695-a3fb-499a-8186-d938979b9750",
     "format": "application/ld+json",
     "profile": "https://static.getty.edu/contexts/linked.art/ns/v1.1.0/linked-art.json"
   },
   "sequences": [
     {
-      "@id": "https://media.getty.edu/iiif/manifest/6ed1c04d-588b-46e8-ad25-9dc9a66305b5/default",
+      "@id": "https://media.getty.edu/iiif/manifest/4cce0a8a-8e45-4761-b78e-9127d522b9d5/default",
       "@type": "sc:Sequence",
       "canvases": [
         {
-          "@id": "https://media.getty.edu/iiif/pres/canvas/7fa8deef-d5e5-428b-a7eb-386ab987e7d0.json",
+          "@id": "https://media.getty.edu/iiif/pres/canvas/c8b80fa4-7c22-4ab6-acfe-1a5291da0a10.json",
           "@type": "sc:Canvas",
-          "height": 7338,
+          "height": 7335,
           "images": [
             {
-              "@id": "https://media.getty.edu/iiif/pres/annotation/anno-7fa8deef-d5e5-428b-a7eb-386ab987e7d0.json",
+              "@id": "https://media.getty.edu/iiif/pres/annotation/anno-c8b80fa4-7c22-4ab6-acfe-1a5291da0a10.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://media.getty.edu/iiif/pres/canvas/7fa8deef-d5e5-428b-a7eb-386ab987e7d0.json",
+              "on": "https://media.getty.edu/iiif/pres/canvas/c8b80fa4-7c22-4ab6-acfe-1a5291da0a10.json",
               "resource": {
-                "@id": "https://media.getty.edu/iiif/image/7fa8deef-d5e5-428b-a7eb-386ab987e7d0/full/full/0/default.jpg",
+                "@id": "https://media.getty.edu/iiif/image/c8b80fa4-7c22-4ab6-acfe-1a5291da0a10/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": 7338,
+                "height": 7335,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://media.getty.edu/iiif/image/7fa8deef-d5e5-428b-a7eb-386ab987e7d0",
+                  "@id": "https://media.getty.edu/iiif/image/c8b80fa4-7c22-4ab6-acfe-1a5291da0a10",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 },
-                "width": 4401
+                "width": 4410
               }
             }
           ],
@@ -103,45 +103,45 @@
             }
           ],
           "thumbnail": {
-            "@id": "https://media.getty.edu/iiif/image/7fa8deef-d5e5-428b-a7eb-386ab987e7d0/full/!600,600/0/default.jpg",
+            "@id": "https://media.getty.edu/iiif/image/c8b80fa4-7c22-4ab6-acfe-1a5291da0a10/full/!600,600/0/default.jpg",
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "height": 600,
             "label": "Main View",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://media.getty.edu/iiif/image/7fa8deef-d5e5-428b-a7eb-386ab987e7d0",
+              "@id": "https://media.getty.edu/iiif/image/c8b80fa4-7c22-4ab6-acfe-1a5291da0a10",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "width": 600
           },
-          "width": 4401
+          "width": 4410
         },
         {
-          "@id": "https://media.getty.edu/iiif/pres/canvas/771bcb3a-ce23-4766-af55-d3b3ed984d56.json",
+          "@id": "https://media.getty.edu/iiif/pres/canvas/71de4989-c816-4c5d-979c-7fd8954d5126.json",
           "@type": "sc:Canvas",
-          "height": 7328,
+          "height": 7338,
           "images": [
             {
-              "@id": "https://media.getty.edu/iiif/pres/annotation/anno-771bcb3a-ce23-4766-af55-d3b3ed984d56.json",
+              "@id": "https://media.getty.edu/iiif/pres/annotation/anno-71de4989-c816-4c5d-979c-7fd8954d5126.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://media.getty.edu/iiif/pres/canvas/771bcb3a-ce23-4766-af55-d3b3ed984d56.json",
+              "on": "https://media.getty.edu/iiif/pres/canvas/71de4989-c816-4c5d-979c-7fd8954d5126.json",
               "resource": {
-                "@id": "https://media.getty.edu/iiif/image/771bcb3a-ce23-4766-af55-d3b3ed984d56/full/full/0/default.jpg",
+                "@id": "https://media.getty.edu/iiif/image/71de4989-c816-4c5d-979c-7fd8954d5126/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": 7328,
+                "height": 7338,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://media.getty.edu/iiif/image/771bcb3a-ce23-4766-af55-d3b3ed984d56",
+                  "@id": "https://media.getty.edu/iiif/image/71de4989-c816-4c5d-979c-7fd8954d5126",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 },
-                "width": 4515
+                "width": 4504
               }
             }
           ],
-          "label": "Blank page, verso of .3",
+          "label": "Blank page, verso of .2",
           "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
           "metadata": [
             {
@@ -150,33 +150,33 @@
             }
           ],
           "thumbnail": {
-            "@id": "https://media.getty.edu/iiif/image/771bcb3a-ce23-4766-af55-d3b3ed984d56/full/!600,600/0/default.jpg",
+            "@id": "https://media.getty.edu/iiif/image/71de4989-c816-4c5d-979c-7fd8954d5126/full/!600,600/0/default.jpg",
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "height": 600,
-            "label": "Blank page, verso of .3",
+            "label": "Blank page, verso of .2",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://media.getty.edu/iiif/image/771bcb3a-ce23-4766-af55-d3b3ed984d56",
+              "@id": "https://media.getty.edu/iiif/image/71de4989-c816-4c5d-979c-7fd8954d5126",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "width": 600
           },
-          "width": 4515
+          "width": 4504
         }
       ],
       "label": "Default range",
-      "startCanvas": "https://media.getty.edu/iiif/pres/canvas/7fa8deef-d5e5-428b-a7eb-386ab987e7d0.json"
+      "startCanvas": "https://media.getty.edu/iiif/pres/canvas/c8b80fa4-7c22-4ab6-acfe-1a5291da0a10.json"
     }
   ],
   "thumbnail": {
-    "@id": "https://media.getty.edu/iiif/image/7fa8deef-d5e5-428b-a7eb-386ab987e7d0/full/!600,600/0/default.jpg",
+    "@id": "https://media.getty.edu/iiif/image/c8b80fa4-7c22-4ab6-acfe-1a5291da0a10/full/!600,600/0/default.jpg",
     "@type": "dctypes:Image",
     "format": "image/jpeg",
     "label": "Main View",
     "service": {
       "@context": "http://iiif.io/api/image/2/context.json",
-      "@id": "https://media.getty.edu/iiif/image/7fa8deef-d5e5-428b-a7eb-386ab987e7d0",
+      "@id": "https://media.getty.edu/iiif/image/c8b80fa4-7c22-4ab6-acfe-1a5291da0a10",
       "profile": "http://iiif.io/api/image/2/level2.json"
     }
   },
