@@ -1,0 +1,248 @@
+---
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://kboespflug.github.io/annonatate/manifests/v2/b12027546/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "William Shakespeare. Oil painting, 18--.",
+  "metadata": [
+    {
+      "label": "Physical description",
+      "value": "1 painting : oil on canvas ; canvas 60.7 x 50.6 cm"
+    },
+    {
+      "label": "Type/technique",
+      "value": "Oil paintings; Portrait paintings; Paintings"
+    },
+    {
+      "label": "Subjects",
+      "value": "Shakespeare, William, 1564-1616."
+    },
+    {
+      "label": "Reference",
+      "value": "Wellcome Library no. 44942i"
+    },
+    {
+      "label": "Attribution",
+      "value": "Wellcome Collection"
+    },
+    {
+      "label": "Full conditions of use",
+      "value": "<span>This work has been identified as being free of known restrictions under copyright law, including all related and neighbouring rights and is being made available under the <a target=\"_top\" href=\"http://creativecommons.org/publicdomain/mark/1.0/\">Creative Commons, Public Domain Mark</a>.<br/><br/>You can copy, modify, distribute and perform the work, even for commercial purposes, without asking permission.</span>"
+    }
+  ],
+  "thumbnail": {
+    "@id": "https://iiif.wellcomecollection.org/thumbs/b12027546_0001.jp2/full/84,100/0/default.jpg",
+    "@type": "dctypes:Image",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://iiif.wellcomecollection.org/thumbs/b12027546_0001.jp2",
+      "profile": "http://iiif.io/api/image/2/level0.json",
+      "protocol": "http://iiif.io/api/image",
+      "width": 863,
+      "height": 1024,
+      "sizes": [
+        {
+          "width": 84,
+          "height": 100
+        },
+        {
+          "width": 169,
+          "height": 200
+        },
+        {
+          "width": 337,
+          "height": 400
+        },
+        {
+          "width": 863,
+          "height": 1024
+        }
+      ]
+    }
+  },
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "logo": "https://iiif.wellcomecollection.org/logos/wellcome-collection-black.png",
+  "related": {
+    "@id": "https://wellcomecollection.org/works/wcfds8yf",
+    "format": "text/html",
+    "label": "William Shakespeare. Oil painting, 18--."
+  },
+  "seeAlso": {
+    "@id": "https://api.wellcomecollection.org/catalogue/v2/works/wcfds8yf",
+    "profile": "https://api.wellcomecollection.org/catalogue/v2/context.json",
+    "format": "application/json",
+    "label": "Wellcome Collection Catalogue API"
+  },
+  "service": [
+    {
+      "@context": "http://universalviewer.io/context.json",
+      "@id": "http://wellcomelibrary.org/service/trackingLabels/b12027546",
+      "profile": "http://universalviewer.io/tracking-extensions-profile",
+      "trackingLabel": "Format: Artwork, Institution: n/a, Identifier: b12027546, Digicode: digadhoc, Collection code: n/a"
+    },
+    {
+      "@context": "http://wellcomelibrary.org/ld/iiif-ext/0/context.json",
+      "@id": "https://wellcomelibrary.org/iiif/b12027546/access-control-hints-service",
+      "profile": "http://wellcomelibrary.org/ld/iiif-ext/access-control-hints",
+      "accessHint": "open"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://iiif.wellcomecollection.org/presentation/v2/b12027546/sequences/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence s0",
+      "rendering": {
+        "@id": "https://iiif.wellcomecollection.org/pdf/b12027546",
+        "label": "View as PDF",
+        "format": "application/pdf"
+      },
+      "canvases": [
+        {
+          "@id": "https://iiif.wellcomecollection.org/presentation/b12027546/canvases/b12027546_0001.jp2",
+          "@type": "sc:Canvas",
+          "label": "-",
+          "thumbnail": {
+            "@id": "https://iiif.wellcomecollection.org/thumbs/b12027546_0001.jp2/full/84,100/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.wellcomecollection.org/thumbs/b12027546_0001.jp2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "protocol": "http://iiif.io/api/image",
+              "width": 863,
+              "height": 1024,
+              "sizes": [
+                {
+                  "width": 84,
+                  "height": 100
+                },
+                {
+                  "width": 169,
+                  "height": 200
+                },
+                {
+                  "width": 337,
+                  "height": 400
+                },
+                {
+                  "width": 863,
+                  "height": 1024
+                }
+              ]
+            }
+          },
+          "height": 7357,
+          "width": 6200,
+          "images": [
+            {
+              "@id": "https://iiif.wellcomecollection.org/presentation/b12027546/canvases/b12027546_0001.jp2/painting/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.wellcomecollection.org/image/b12027546_0001.jp2/full/863,1024/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1024,
+                "width": 863,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.wellcomecollection.org/image/b12027546_0001.jp2",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image",
+                  "width": 6200,
+                  "height": 7357
+                }
+              },
+              "on": "https://iiif.wellcomecollection.org/presentation/b12027546/canvases/b12027546_0001.jp2"
+            }
+          ],
+          "within": ""
+        },
+        {
+          "@id": "https://iiif.wellcomecollection.org/presentation/b12027546/canvases/b12027546_0002.jp2",
+          "@type": "sc:Canvas",
+          "label": "-",
+          "thumbnail": {
+            "@id": "https://iiif.wellcomecollection.org/thumbs/b12027546_0002.jp2/full/84,100/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.wellcomecollection.org/thumbs/b12027546_0002.jp2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "protocol": "http://iiif.io/api/image",
+              "width": 863,
+              "height": 1024,
+              "sizes": [
+                {
+                  "width": 84,
+                  "height": 100
+                },
+                {
+                  "width": 169,
+                  "height": 200
+                },
+                {
+                  "width": 337,
+                  "height": 400
+                },
+                {
+                  "width": 863,
+                  "height": 1024
+                }
+              ]
+            }
+          },
+          "height": 7357,
+          "width": 6200,
+          "images": [
+            {
+              "@id": "https://iiif.wellcomecollection.org/presentation/b12027546/canvases/b12027546_0002.jp2/painting/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.wellcomecollection.org/image/b12027546_0002.jp2/full/863,1024/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1024,
+                "width": 863,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.wellcomecollection.org/image/b12027546_0002.jp2",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image",
+                  "width": 6200,
+                  "height": 7357
+                }
+              },
+              "on": "https://iiif.wellcomecollection.org/presentation/b12027546/canvases/b12027546_0002.jp2"
+            }
+          ],
+          "within": ""
+        }
+      ]
+    }
+  ],
+  "structures": [
+    {
+      "@id": "https://iiif.wellcomecollection.org/presentation/b12027546/ranges/LOG_0001",
+      "@type": "sc:Range",
+      "label": "Canvas",
+      "canvases": [
+        "https://iiif.wellcomecollection.org/presentation/b12027546/canvases/b12027546_0001.jp2"
+      ],
+      "within": ""
+    },
+    {
+      "@id": "https://iiif.wellcomecollection.org/presentation/b12027546/ranges/LOG_0002",
+      "@type": "sc:Range",
+      "label": "Back",
+      "canvases": [
+        "https://iiif.wellcomecollection.org/presentation/b12027546/canvases/b12027546_0002.jp2"
+      ],
+      "within": ""
+    }
+  ],
+  "within": "https://iiif.wellcomecollection.org/presentation/v2/collections/subjects/qmtpvvpa"
+}
