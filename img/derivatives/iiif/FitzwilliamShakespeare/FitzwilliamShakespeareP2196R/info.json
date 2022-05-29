@@ -1,0 +1,65 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/FitzwilliamShakespeare//FitzwilliamShakespeareP2196R",
+  "height": 760,
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "formats": [
+        "jpg"
+      ],
+      "qualities": [
+        "default"
+      ]
+    }
+  ],
+  "protocol": "http://iiif.io/api/image",
+  "sizes": [
+    {
+      "height": 380,
+      "width": 209
+    },
+    {
+      "height": 190,
+      "width": 104
+    },
+    {
+      "height": 95,
+      "width": 52
+    },
+    {
+      "height": 48,
+      "width": 26
+    },
+    {
+      "height": 24,
+      "width": 13
+    },
+    {
+      "height": 12,
+      "width": 7
+    },
+    {
+      "height": 6,
+      "width": 3
+    },
+    {
+      "height": 3,
+      "width": 2
+    },
+    {
+      "height": 1,
+      "width": 1
+    }
+  ],
+  "tiles": [
+    {
+      "height": 512,
+      "scaleFactors": [
+        1
+      ],
+      "width": 512
+    }
+  ],
+  "width": 417
+}
