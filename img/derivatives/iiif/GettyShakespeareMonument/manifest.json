@@ -1,0 +1,68 @@
+---
+---
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/GettyShakespeareMonument/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "ShakespeareMonument"
+    ]
+  },
+  "summary": {
+    "en": [
+      ""
+    ]
+  },
+  "behavior": [
+    "paged"
+  ],
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/GettyShakespeareMonument/canvas/GettyShakespeareMonument-1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "GettyShakespeareMonumentStratfordChurch"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/GettyShakespeareMonument/GettyShakespeareMonumentStratfordChurch/full/117,/0/default.jpg",
+          "type": "thumbnail"
+        }
+      ],
+      "height": 3000,
+      "width": 1877,
+      "items": [
+        {
+          "id": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/GettyShakespeareMonument/page/p1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/GettyShakespeareMonument/annotation/p0001-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/GettyShakespeareMonument/GettyShakespeareMonumentStratfordChurch/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3000,
+                "width": 1877,
+                "service": [
+                  {
+                    "id": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/GettyShakespeareMonument/GettyShakespeareMonumentStratfordChurch",
+                    "type": "ImageService2",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://kboespflug.github.io/annonatate/img/derivatives/iiif/GettyShakespeareMonument/canvas/GettyShakespeareMonument-1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
