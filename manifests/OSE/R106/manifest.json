@@ -1,0 +1,68 @@
+---
+---
+{
+  "label": "\u300e\u30cf\u30e0\u30ec\u30c3\u30c8\u300f",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "\u300e\u30cf\u30e0\u30ec\u30c3\u30c8\u300f"
+    },
+    {
+      "label": "\u30b0\u30eb\u30fc\u30d7\u540d",
+      "value": "\u30b7\u30a7\u30a4\u30af\u30b9\u30d4\u30a2"
+    },
+    {
+      "label": "\u4f5c\u8005",
+      "value": "\u30b7\u30a7\u30a4\u30af\u30b9\u30d4\u30a2"
+    },
+    {
+      "label": "\u6f14\u76ee",
+      "value": "\u300e\u30cf\u30e0\u30ec\u30c3\u30c8\u300f"
+    },
+    {
+      "label": "\u4ff3\u512a\u540d\uff08\u914d\u5f79\u540d\uff09",
+      "value": "\u30d0\u30ec\u30b9\u30e9\u30d5\u30b9\u30ad\u30fc\uff08\u30e9\u30fc\u30a8\u30eb\u30c6\u30a3\u30fc\u30ba\uff09"
+    }
+  ],
+  "attribution": "\u6176\u61c9\u7fa9\u587e\u5927\u5b66\u30e1\u30c7\u30a3\u30a2\u30bb\u30f3\u30bf\u30fc\nKeio University Libraries",
+  "license": "<a href=\"https://dcollections.lib.keio.ac.jp/ja/about\" target=\"_blank\">https://dcollections.lib.keio.ac.jp/ja/about</a>",
+  "@id": "https://kboespflug.github.io/annonatate/manifests/OSE/R106/manifest.json",
+  "@type": "sc:Manifest",
+  "viewingDirection": "right-to-left",
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "within": "https://dcollections.lib.keio.ac.jp/",
+  "sequences": [
+    {
+      "@id": "https://iiif.lib.keio.ac.jp/iipsrv/OSE/sequence.json",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/OSE/R/page113",
+          "@type": "sc:Canvas",
+          "height": 2933,
+          "width": 3800,
+          "images": [
+            {
+              "@id": "https://iiif.lib.keio.ac.jp/iiif/OSE/R/ano113",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/OSE/R/page113",
+              "resource": {
+                "@id": "https://iiif.lib.keio.ac.jp/iiif/OSE/R/img113",
+                "@type": "dctypes:Image",
+                "format": "Image/jpeg",
+                "height": 2933,
+                "width": 3800,
+                "service": {
+                  "@id": "https://iiif.lib.keio.ac.jp/iipsrv/OSE/R/tif/R106.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
