@@ -1,0 +1,167 @@
+---
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "@id": "https://kboespflug.github.io/annonatate/manifests/m/RUMSEY~8~1~307126~90077063/manifest.json",
+  "label": "Text: William Shakespeare ...",
+  "attribution": "David Rumsey Historical Map Collection",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~307126~90077063/canvas/c1",
+          "@type": "sc:Canvas",
+          "label": "Text: William Shakespeare ...",
+          "description": "",
+          "metadata": [
+            {
+              "label": "Author",
+              "value": "Nicholls, Denys"
+            },
+            {
+              "label": "Date",
+              "value": "1937"
+            },
+            {
+              "label": "Short Title",
+              "value": "Text: William Shakespeare ..."
+            },
+            {
+              "label": "Publisher",
+              "value": "Dunlop Rubber Co, Ltd."
+            },
+            {
+              "label": "Type",
+              "value": "Text Page"
+            },
+            {
+              "label": "Obj Height cm",
+              "value": "24"
+            },
+            {
+              "label": "Obj Width cm",
+              "value": "58"
+            },
+            {
+              "label": "Note",
+              "value": "Date estimated."
+            },
+            {
+              "label": "Country",
+              "value": "England"
+            },
+            {
+              "label": "Subject",
+              "value": "Pictorial map"
+            },
+            {
+              "label": "Full Title",
+              "value": "(Text Page) William Shakespeare ..."
+            },
+            {
+              "label": "List No",
+              "value": "12478.003"
+            },
+            {
+              "label": "Page No",
+              "value": "verso"
+            },
+            {
+              "label": "Series No",
+              "value": "3"
+            },
+            {
+              "label": "Engraver or Printer",
+              "value": "J. Howitt & Son Ltd."
+            },
+            {
+              "label": "Publication Author",
+              "value": "Nicholls, Denys"
+            },
+            {
+              "label": "Pub Date",
+              "value": "1937"
+            },
+            {
+              "label": "Pub Title",
+              "value": "A Dunlop Map of the West Country which includes the Doone country and the Hardy country,"
+            },
+            {
+              "label": "Pub Note",
+              "value": "Date estimated."
+            },
+            {
+              "label": "Pub List No",
+              "value": "12478.000"
+            },
+            {
+              "label": "Pub Type",
+              "value": "Separate Map"
+            },
+            {
+              "label": "Pub Maps",
+              "value": "1"
+            },
+            {
+              "label": "Pub Height cm",
+              "value": "24"
+            },
+            {
+              "label": "Pub Width cm",
+              "value": "23"
+            },
+            {
+              "label": "Image No",
+              "value": "12478003.jp2"
+            },
+            {
+              "label": "Download 1",
+              "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/12478003.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+            },
+            {
+              "label": "Download 2",
+              "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+            },
+            {
+              "label": "Authors",
+              "value": "Nicholls, Denys"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~307126~90077063/full/!96,96/0/default.jpg",
+            "format": "image/jpeg"
+          },
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~307126~90077063/full/!1024,1024/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~307126~90077063",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 11364,
+                "height": 4960
+              },
+              "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~307126~90077063/canvas/c1"
+            }
+          ],
+          "width": 11364,
+          "height": 4960
+        }
+      ]
+    }
+  ],
+  "logo": {
+    "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+    "format": "image/png"
+  },
+  "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~307126~90077063"
+}
