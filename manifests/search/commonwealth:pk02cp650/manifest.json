@@ -1,0 +1,128 @@
+---
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://kboespflug.github.io/annonatate/manifests/search/commonwealth:pk02cp650/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "Shakespeare",
+  "thumbnail": {
+    "@id": "https://ark.digitalcommonwealth.org/ark:/50959/pk02cp650/thumbnail",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:pk02cp668",
+      "profile": "http://iiif.io/api/image/2/level2.json"
+    }
+  },
+  "viewingHint": "paged",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "Shakespeare"
+    },
+    {
+      "label": "Date",
+      "value": "[ca. 1859\u20131870]"
+    },
+    {
+      "label": "Type of Resource",
+      "value": "still image"
+    },
+    {
+      "label": "Format",
+      "value": "Photographs"
+    },
+    {
+      "label": "Language",
+      "value": "English"
+    },
+    {
+      "label": "Subjects",
+      "value": [
+        "Shakespeare, William, 1564-1616",
+        "Authors"
+      ]
+    },
+    {
+      "label": "Location",
+      "value": "Boston Public Library"
+    },
+    {
+      "label": "Collection (local)",
+      "value": "Carte de Visite Collection"
+    },
+    {
+      "label": "Identifier",
+      "value": "https://ark.digitalcommonwealth.org/ark:/50959/pk02cp650"
+    },
+    {
+      "label": "Terms of Use",
+      "value": [
+        "No known copyright restrictions.",
+        "No known restrictions on use."
+      ]
+    }
+  ],
+  "attribution": "No known copyright restrictions. No known restrictions on use.",
+  "seeAlso": "https://ark.digitalcommonwealth.org/ark:/50959/pk02cp650",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://ark.digitalcommonwealth.org/ark:/50959/pk02cp650/canvas/pk02cp668",
+          "@type": "sc:Canvas",
+          "label": "image 1",
+          "width": 1456,
+          "height": 2264,
+          "images": [
+            {
+              "@id": "https://ark.digitalcommonwealth.org/ark:/50959/pk02cp650/annotation/pk02cp668",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ark.digitalcommonwealth.org/ark:/50959/pk02cp668/large_image",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 1456,
+                "height": 2264,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:pk02cp668",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://ark.digitalcommonwealth.org/ark:/50959/pk02cp650/canvas/pk02cp668"
+            }
+          ]
+        },
+        {
+          "@id": "https://ark.digitalcommonwealth.org/ark:/50959/pk02cp650/canvas/pk02cp67j",
+          "@type": "sc:Canvas",
+          "label": "image 2",
+          "width": 1466,
+          "height": 2266,
+          "images": [
+            {
+              "@id": "https://ark.digitalcommonwealth.org/ark:/50959/pk02cp650/annotation/pk02cp67j",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ark.digitalcommonwealth.org/ark:/50959/pk02cp67j/large_image",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 1466,
+                "height": 2266,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:pk02cp67j",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://ark.digitalcommonwealth.org/ark:/50959/pk02cp650/canvas/pk02cp67j"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
