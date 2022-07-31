@@ -1,0 +1,121 @@
+---
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://kboespflug.github.io/annonatate/manifests/search/commonwealth:0r96fn89v/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "Plan of Shakespeare's birth-place",
+  "thumbnail": {
+    "@id": "https://ark.digitalcommonwealth.org/ark:/50959/0r96fn89v/thumbnail",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fn90m",
+      "profile": "http://iiif.io/api/image/2/level2.json"
+    }
+  },
+  "viewingHint": "individuals",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "Plan of Shakespeare's birth-place"
+    },
+    {
+      "label": "Date",
+      "value": "1824"
+    },
+    {
+      "label": "Creator",
+      "value": "Hemings, W."
+    },
+    {
+      "label": "Publisher",
+      "value": "[England?] : [Publisher not identified]"
+    },
+    {
+      "label": "Type of Resource",
+      "value": "cartographic"
+    },
+    {
+      "label": "Format",
+      "value": "Maps"
+    },
+    {
+      "label": "Description",
+      "value": "William Shakespeare was born into a middle-class family in Elizabethan England, and grew up in a comfortable home on Henley Street in Stratford-upon-Avon. The early 19th-century house plan displayed here shows what Shakespeare\u2019s boyhood home looked like in 1824 \u2013 260 years after his birth \u2013 along with neighboring properties and their owners. On the first floor there are a number of rooms in which to prepare food, such as a kitchen, pantry and buttery. These utilitarian rooms were separated from the living quarters, which were on the second floor. The glove shop run by Shakespeare\u2019s father John was in the adjoining property."
+    },
+    {
+      "label": "Language",
+      "value": "English"
+    },
+    {
+      "label": "Subjects",
+      "value": [
+        "Shakespeare, William, 1564-1616",
+        "Dramatists, English--Homes and haunts--England--Stratford-upon-Avon",
+        "Real property--England--Stratford-upon-Avon",
+        "Stratford-upon-Avon (England)--Maps"
+      ]
+    },
+    {
+      "label": "Location",
+      "value": "Boston Public Library"
+    },
+    {
+      "label": "Collection (local)",
+      "value": "Norman B. Leventhal Map Center Collection"
+    },
+    {
+      "label": "Identifier",
+      "value": [
+        "https://ark.digitalcommonwealth.org/ark:/50959/0r96fn89v",
+        "06_01_015829",
+        "G5754.S85G46 1824 .H46",
+        "39999085940722"
+      ]
+    },
+    {
+      "label": "Terms of Use",
+      "value": [
+        "No known copyright restrictions.",
+        "No known restrictions on use."
+      ]
+    }
+  ],
+  "description": "William Shakespeare was born into a middle-class family in Elizabethan England, and grew up in a comfortable home on Henley Street in Stratford-upon-Avon. The early 19th-century house plan displayed here shows what Shakespeare\u2019s boyhood home looked like in 1824 \u2013 260 years after his birth \u2013 along with neighboring properties and their owners. On the first floor there are a number of rooms in which to prepare food, such as a kitchen, pantry and buttery. These utilitarian rooms were separated from the living quarters, which were on the second floor. The glove shop run by Shakespeare\u2019s father John was in the adjoining property.",
+  "attribution": "No known copyright restrictions. No known restrictions on use. ",
+  "seeAlso": "https://ark.digitalcommonwealth.org/ark:/50959/0r96fn89v",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://ark.digitalcommonwealth.org/ark:/50959/0r96fn89v/canvas/0r96fn90m",
+          "@type": "sc:Canvas",
+          "label": "image 1",
+          "width": 3703,
+          "height": 3508,
+          "images": [
+            {
+              "@id": "https://ark.digitalcommonwealth.org/ark:/50959/0r96fn89v/annotation/0r96fn90m",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ark.digitalcommonwealth.org/ark:/50959/0r96fn90m/large_image",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 3703,
+                "height": 3508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fn90m",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://ark.digitalcommonwealth.org/ark:/50959/0r96fn89v/canvas/0r96fn90m"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
