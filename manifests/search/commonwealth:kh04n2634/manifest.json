@@ -1,0 +1,108 @@
+---
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://kboespflug.github.io/annonatate/manifests/search/commonwealth:kh04n2634/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "Shakespeare\u2019s birthplace",
+  "thumbnail": {
+    "@id": "https://ark.digitalcommonwealth.org/ark:/50959/kh04n2634/thumbnail",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:kh04n264d",
+      "profile": "http://iiif.io/api/image/2/level2.json"
+    }
+  },
+  "viewingHint": "individuals",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "Shakespeare\u2019s birthplace"
+    },
+    {
+      "label": "Date",
+      "value": "(c) 1833"
+    },
+    {
+      "label": "Type of Resource",
+      "value": "still image"
+    },
+    {
+      "label": "Format",
+      "value": "Paintings"
+    },
+    {
+      "label": "Description",
+      "value": "Information from accompanying cards: Under the gilt of the fore-edges of each volume is an attractive painting done in great detail. That on volume I is of Shakespeare\u2019s birthplace."
+    },
+    {
+      "label": "Subjects",
+      "value": [
+        "Shakespeare, William, 1564-1616",
+        "Birthplaces",
+        "Houses"
+      ]
+    },
+    {
+      "label": "Location",
+      "value": "Boston Public Library"
+    },
+    {
+      "label": "Collection (local)",
+      "value": "Special Collections, Rare Books"
+    },
+    {
+      "label": "Identifier",
+      "value": [
+        "https://ark.digitalcommonwealth.org/ark:/50959/kh04n2634",
+        "07_04_000190A",
+        "PR2991 .J3 1833x",
+        "39999063117533"
+      ]
+    },
+    {
+      "label": "Terms of Use",
+      "value": [
+        "No known copyright restrictions.",
+        "No known restrictions on use."
+      ]
+    }
+  ],
+  "description": "Information from accompanying cards: Under the gilt of the fore-edges of each volume is an attractive painting done in great detail. That on volume I is of Shakespeare\u2019s birthplace.",
+  "attribution": "No known copyright restrictions. No known restrictions on use.",
+  "seeAlso": "https://ark.digitalcommonwealth.org/ark:/50959/kh04n2634",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://ark.digitalcommonwealth.org/ark:/50959/kh04n2634/canvas/kh04n264d",
+          "@type": "sc:Canvas",
+          "label": "image 1",
+          "width": 3024,
+          "height": 872,
+          "images": [
+            {
+              "@id": "https://ark.digitalcommonwealth.org/ark:/50959/kh04n2634/annotation/kh04n264d",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ark.digitalcommonwealth.org/ark:/50959/kh04n264d/large_image",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 3024,
+                "height": 872,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:kh04n264d",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://ark.digitalcommonwealth.org/ark:/50959/kh04n2634/canvas/kh04n264d"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
