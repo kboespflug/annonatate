@@ -1,0 +1,2425 @@
+---
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://kboespflug.github.io/annonatate/manifests/iiif.unige.ch/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "1072056515",
+  "description": "A Midsommer nights dreame. As it hath beene sundry times publikely \tacted, by the Right Honourable, the Lord Chamberlaine his seruants. Written by William Shakespeare., Shakespeare, William,1600",
+  "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "attribution": "Fondation Martin Bodmer, num\u00e9risation Bodmer Lab, UNIGE",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "label": [
+        {
+          "@value": "Normal Sequence",
+          "@language": "en"
+        }
+      ],
+      "canvases": [
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_002#canvas",
+          "@type": "sc:Canvas",
+          "label": "002",
+          "height": 3219,
+          "width": 2338,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_002",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_002/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_002",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3219,
+                "width": 2338
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_002"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_003#canvas",
+          "@type": "sc:Canvas",
+          "label": "003",
+          "height": 3219,
+          "width": 2338,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_003",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_003/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_003",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3219,
+                "width": 2338
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_003"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_004#canvas",
+          "@type": "sc:Canvas",
+          "label": "004",
+          "height": 3219,
+          "width": 308,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_004",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_004/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_004",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3219,
+                "width": 308
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_004"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_005#canvas",
+          "@type": "sc:Canvas",
+          "label": "005",
+          "height": 3284,
+          "width": 308,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_005",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_005/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_005",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3284,
+                "width": 308
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_005"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_006#canvas",
+          "@type": "sc:Canvas",
+          "label": "006",
+          "height": 2437,
+          "width": 253,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_006",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_006/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_006",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 2437,
+                "width": 253
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_006"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_007#canvas",
+          "@type": "sc:Canvas",
+          "label": "007",
+          "height": 2437,
+          "width": 253,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_007",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_007/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_007",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 2437,
+                "width": 253
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_007"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_008#canvas",
+          "@type": "sc:Canvas",
+          "label": "008",
+          "height": 3230,
+          "width": 2328,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_008",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_008/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_008",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3230,
+                "width": 2328
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_008"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_009#canvas",
+          "@type": "sc:Canvas",
+          "label": "009",
+          "height": 3230,
+          "width": 2338,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_009",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_009/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_009",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3230,
+                "width": 2338
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_009"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_010#canvas",
+          "@type": "sc:Canvas",
+          "label": "010",
+          "height": 3230,
+          "width": 2339,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_010",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_010/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_010",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3230,
+                "width": 2339
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_010"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_011#canvas",
+          "@type": "sc:Canvas",
+          "label": "011",
+          "height": 3230,
+          "width": 2208,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_011",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_011/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_011",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3230,
+                "width": 2208
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_011"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_012#canvas",
+          "@type": "sc:Canvas",
+          "label": "012",
+          "height": 3230,
+          "width": 2339,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_012",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_012/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_012",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3230,
+                "width": 2339
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_012"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_013#canvas",
+          "@type": "sc:Canvas",
+          "label": "013",
+          "height": 3230,
+          "width": 2208,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_013",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_013/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_013",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3230,
+                "width": 2208
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_013"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_014#canvas",
+          "@type": "sc:Canvas",
+          "label": "014",
+          "height": 3208,
+          "width": 2328,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_014",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_014/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_014",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2328
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_014"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_015#canvas",
+          "@type": "sc:Canvas",
+          "label": "015",
+          "height": 3208,
+          "width": 2208,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_015",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_015/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_015",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2208
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_015"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_016#canvas",
+          "@type": "sc:Canvas",
+          "label": "016",
+          "height": 3208,
+          "width": 2328,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_016",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_016/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_016",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2328
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_016"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_017#canvas",
+          "@type": "sc:Canvas",
+          "label": "017",
+          "height": 3208,
+          "width": 2208,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_017",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_017/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_017",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2208
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_017"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_018#canvas",
+          "@type": "sc:Canvas",
+          "label": "018",
+          "height": 3208,
+          "width": 2328,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_018",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_018/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_018",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2328
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_018"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_019#canvas",
+          "@type": "sc:Canvas",
+          "label": "019",
+          "height": 3208,
+          "width": 2208,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_019",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_019/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_019",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2208
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_019"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_020#canvas",
+          "@type": "sc:Canvas",
+          "label": "020",
+          "height": 3208,
+          "width": 2328,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_020",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_020/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_020",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2328
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_020"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_021#canvas",
+          "@type": "sc:Canvas",
+          "label": "021",
+          "height": 3208,
+          "width": 2208,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_021",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_021/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_021",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2208
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_021"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_022#canvas",
+          "@type": "sc:Canvas",
+          "label": "022",
+          "height": 3208,
+          "width": 2328,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_022",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_022/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_022",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2328
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_022"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_023#canvas",
+          "@type": "sc:Canvas",
+          "label": "023",
+          "height": 3208,
+          "width": 2208,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_023",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_023/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_023",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2208
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_023"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_024#canvas",
+          "@type": "sc:Canvas",
+          "label": "024",
+          "height": 3208,
+          "width": 2328,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_024",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_024/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_024",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2328
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_024"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_025#canvas",
+          "@type": "sc:Canvas",
+          "label": "025",
+          "height": 3208,
+          "width": 2208,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_025",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_025/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_025",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2208
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_025"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_026#canvas",
+          "@type": "sc:Canvas",
+          "label": "026",
+          "height": 3208,
+          "width": 2328,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_026",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_026/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_026",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2328
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_026"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_027#canvas",
+          "@type": "sc:Canvas",
+          "label": "027",
+          "height": 3208,
+          "width": 2208,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_027",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_027/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_027",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2208
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_027"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_028#canvas",
+          "@type": "sc:Canvas",
+          "label": "028",
+          "height": 3208,
+          "width": 2328,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_028",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_028/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_028",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2328
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_028"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_029#canvas",
+          "@type": "sc:Canvas",
+          "label": "029",
+          "height": 3208,
+          "width": 2208,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_029",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_029/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_029",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2208
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_029"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_030#canvas",
+          "@type": "sc:Canvas",
+          "label": "030",
+          "height": 3208,
+          "width": 2328,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_030",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_030/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_030",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2328
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_030"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_031#canvas",
+          "@type": "sc:Canvas",
+          "label": "031",
+          "height": 3208,
+          "width": 2208,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_031",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_031/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_031",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2208
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_031"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_032#canvas",
+          "@type": "sc:Canvas",
+          "label": "032",
+          "height": 3208,
+          "width": 2328,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_032",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_032/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_032",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2328
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_032"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_033#canvas",
+          "@type": "sc:Canvas",
+          "label": "033",
+          "height": 3208,
+          "width": 2208,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_033",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_033/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_033",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2208
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_033"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_034#canvas",
+          "@type": "sc:Canvas",
+          "label": "034",
+          "height": 3208,
+          "width": 2328,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_034",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_034/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_034",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2328
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_034"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_035#canvas",
+          "@type": "sc:Canvas",
+          "label": "035",
+          "height": 3208,
+          "width": 2208,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_035",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_035/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_035",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2208
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_035"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_036#canvas",
+          "@type": "sc:Canvas",
+          "label": "036",
+          "height": 3208,
+          "width": 2328,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_036",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_036/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_036",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2328
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_036"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_037#canvas",
+          "@type": "sc:Canvas",
+          "label": "037",
+          "height": 3208,
+          "width": 2208,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_037",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_037/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_037",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2208
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_037"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_038#canvas",
+          "@type": "sc:Canvas",
+          "label": "038",
+          "height": 3208,
+          "width": 2328,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_038",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_038/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_038",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2328
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_038"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_039#canvas",
+          "@type": "sc:Canvas",
+          "label": "039",
+          "height": 3208,
+          "width": 2208,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_039",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_039/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_039",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2208
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_039"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_040#canvas",
+          "@type": "sc:Canvas",
+          "label": "040",
+          "height": 3208,
+          "width": 2328,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_040",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_040/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_040",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2328
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_040"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_041#canvas",
+          "@type": "sc:Canvas",
+          "label": "041",
+          "height": 3208,
+          "width": 2208,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_041",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_041/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_041",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2208
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_041"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_042#canvas",
+          "@type": "sc:Canvas",
+          "label": "042",
+          "height": 3208,
+          "width": 2328,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_042",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_042/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_042",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2328
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_042"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_043#canvas",
+          "@type": "sc:Canvas",
+          "label": "043",
+          "height": 3208,
+          "width": 2208,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_043",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_043/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_043",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2208
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_043"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_044#canvas",
+          "@type": "sc:Canvas",
+          "label": "044",
+          "height": 3208,
+          "width": 2328,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_044",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_044/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_044",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2328
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_044"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_045#canvas",
+          "@type": "sc:Canvas",
+          "label": "045",
+          "height": 3208,
+          "width": 2208,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_045",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_045/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_045",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2208
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_045"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_046#canvas",
+          "@type": "sc:Canvas",
+          "label": "046",
+          "height": 3208,
+          "width": 2284,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_046",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_046/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_046",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2284
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_046"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_047#canvas",
+          "@type": "sc:Canvas",
+          "label": "047",
+          "height": 3208,
+          "width": 2263,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_047",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_047/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_047",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2263
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_047"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_048#canvas",
+          "@type": "sc:Canvas",
+          "label": "048",
+          "height": 3208,
+          "width": 2284,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_048",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_048/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_048",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2284
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_048"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_049#canvas",
+          "@type": "sc:Canvas",
+          "label": "049",
+          "height": 3208,
+          "width": 2263,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_049",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_049/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_049",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2263
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_049"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_050#canvas",
+          "@type": "sc:Canvas",
+          "label": "050",
+          "height": 3208,
+          "width": 2284,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_050",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_050/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_050",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2284
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_050"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_051#canvas",
+          "@type": "sc:Canvas",
+          "label": "051",
+          "height": 3208,
+          "width": 2263,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_051",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_051/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_051",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2263
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_051"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_052#canvas",
+          "@type": "sc:Canvas",
+          "label": "052",
+          "height": 3208,
+          "width": 2284,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_052",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_052/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_052",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2284
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_052"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_053#canvas",
+          "@type": "sc:Canvas",
+          "label": "053",
+          "height": 3208,
+          "width": 2263,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_053",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_053/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_053",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2263
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_053"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_054#canvas",
+          "@type": "sc:Canvas",
+          "label": "054",
+          "height": 3208,
+          "width": 2284,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_054",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_054/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_054",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2284
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_054"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_055#canvas",
+          "@type": "sc:Canvas",
+          "label": "055",
+          "height": 3208,
+          "width": 2263,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_055",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_055/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_055",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2263
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_055"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_056#canvas",
+          "@type": "sc:Canvas",
+          "label": "056",
+          "height": 3208,
+          "width": 2284,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_056",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_056/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_056",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2284
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_056"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_057#canvas",
+          "@type": "sc:Canvas",
+          "label": "057",
+          "height": 3208,
+          "width": 2263,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_057",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_057/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_057",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2263
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_057"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_058#canvas",
+          "@type": "sc:Canvas",
+          "label": "058",
+          "height": 3208,
+          "width": 2284,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_058",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_058/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_058",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2284
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_058"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_059#canvas",
+          "@type": "sc:Canvas",
+          "label": "059",
+          "height": 3208,
+          "width": 2263,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_059",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_059/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_059",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2263
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_059"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_060#canvas",
+          "@type": "sc:Canvas",
+          "label": "060",
+          "height": 3208,
+          "width": 2284,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_060",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_060/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_060",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2284
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_060"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_061#canvas",
+          "@type": "sc:Canvas",
+          "label": "061",
+          "height": 3208,
+          "width": 2263,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_061",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_061/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_061",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2263
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_061"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_062#canvas",
+          "@type": "sc:Canvas",
+          "label": "062",
+          "height": 3208,
+          "width": 2284,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_062",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_062/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_062",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2284
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_062"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_063#canvas",
+          "@type": "sc:Canvas",
+          "label": "063",
+          "height": 3208,
+          "width": 2263,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_063",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_063/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_063",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2263
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_063"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_064#canvas",
+          "@type": "sc:Canvas",
+          "label": "064",
+          "height": 3208,
+          "width": 2284,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_064",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_064/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_064",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2284
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_064"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_065#canvas",
+          "@type": "sc:Canvas",
+          "label": "065",
+          "height": 3208,
+          "width": 2263,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_065",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_065/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_065",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2263
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_065"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_066#canvas",
+          "@type": "sc:Canvas",
+          "label": "066",
+          "height": 3208,
+          "width": 2284,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_066",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_066/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_066",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2284
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_066"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_067#canvas",
+          "@type": "sc:Canvas",
+          "label": "067",
+          "height": 3208,
+          "width": 2263,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_067",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_067/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_067",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2263
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_067"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_068#canvas",
+          "@type": "sc:Canvas",
+          "label": "068",
+          "height": 3208,
+          "width": 2284,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_068",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_068/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_068",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2284
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_068"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_069#canvas",
+          "@type": "sc:Canvas",
+          "label": "069",
+          "height": 3208,
+          "width": 2263,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_069",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_069/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_069",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2263
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_069"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_070#canvas",
+          "@type": "sc:Canvas",
+          "label": "070",
+          "height": 3208,
+          "width": 2284,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_070",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_070/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_070",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2284
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_070"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_071#canvas",
+          "@type": "sc:Canvas",
+          "label": "071",
+          "height": 3208,
+          "width": 2263,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_071",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_071/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_071",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2263
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_071"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_072#canvas",
+          "@type": "sc:Canvas",
+          "label": "072",
+          "height": 3208,
+          "width": 2284,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_072",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_072/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_072",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2284
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_072"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_073#canvas",
+          "@type": "sc:Canvas",
+          "label": "073",
+          "height": 3208,
+          "width": 2263,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_073",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_073/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_073",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2263
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_073"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_074#canvas",
+          "@type": "sc:Canvas",
+          "label": "074",
+          "height": 3208,
+          "width": 2284,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_074",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_074/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_074",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2284
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_074"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_075#canvas",
+          "@type": "sc:Canvas",
+          "label": "075",
+          "height": 3208,
+          "width": 2263,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_075",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_075/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_075",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2263
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_075"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_076#canvas",
+          "@type": "sc:Canvas",
+          "label": "076",
+          "height": 3186,
+          "width": 2252,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_076",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_076/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_076",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3186,
+                "width": 2252
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_076"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_077#canvas",
+          "@type": "sc:Canvas",
+          "label": "077",
+          "height": 3208,
+          "width": 2284,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_077",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_077/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_077",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2284
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_077"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_078#canvas",
+          "@type": "sc:Canvas",
+          "label": "078",
+          "height": 3186,
+          "width": 2252,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_078",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_078/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_078",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3186,
+                "width": 2252
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_078"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_079#canvas",
+          "@type": "sc:Canvas",
+          "label": "079",
+          "height": 3208,
+          "width": 2263,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_079",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_079/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_079",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 2263
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_079"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_080#canvas",
+          "@type": "sc:Canvas",
+          "label": "080",
+          "height": 3186,
+          "width": 2252,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_080",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_080/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_080",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3186,
+                "width": 2252
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_080"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.unige.ch/iiif/2/1072056515_081#canvas",
+          "@type": "sc:Canvas",
+          "label": "081",
+          "height": 3208,
+          "width": 3034,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.unige.ch/iiif/2/1072056515_081",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.unige.ch/iiif/2/1072056515_081/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.unige.ch/iiif/2/1072056515_081",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level2.json"
+                  ]
+                },
+                "height": 3208,
+                "width": 3034
+              },
+              "on": "https://iiif.unige.ch/iiif/2/1072056515_081"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metatdata": []
+}
