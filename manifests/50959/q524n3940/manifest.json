@@ -1,0 +1,123 @@
+---
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://kboespflug.github.io/annonatate/manifests/50959/q524n3940/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "Illustrations of Charlecote Hall, Church of the Holy Trinity, and New Place",
+  "thumbnail": {
+    "@id": "https://ark.digitalcommonwealth.org/ark:/50959/q524n3940/thumbnail",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n3958",
+      "profile": "http://iiif.io/api/image/2/level2.json"
+    }
+  },
+  "viewingHint": "individuals",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "Illustrations of Charlecote Hall, Church of the Holy Trinity, and New Place"
+    },
+    {
+      "label": "Date",
+      "value": "1847"
+    },
+    {
+      "label": "Creator",
+      "value": [
+        "Linton, W. J. (William James), 1812-1897",
+        "Little, William"
+      ]
+    },
+    {
+      "label": "Publisher",
+      "value": "London : William Little"
+    },
+    {
+      "label": "Type of Resource",
+      "value": "still image"
+    },
+    {
+      "label": "Format",
+      "value": "Prints"
+    },
+    {
+      "label": "Description",
+      "value": "William Shakespeare is believed to have been born on April 23, 1564, in the town of Stratford-upon-Avon, Warwickshire, some 100 miles from London. His father John was a glove maker and eventually Mayor of Stratford, and his mother Mary was the daughter of a prosperous farmer. The 19th-century images displayed here illustrate the house where William was born, the grammar school he attended, and other places of interest in Stratford. Shakespeare's career took him to London in 1592, while his wife Anne Hathaway and their three children remained in Stratford. Shakespeare returned to his hometown in 1611, and died there in 1616."
+    },
+    {
+      "label": "Language",
+      "value": "English"
+    },
+    {
+      "label": "Subjects",
+      "value": [
+        "Shakespeare, William, 1564-1616",
+        "Dramatists, English--Homes and haunts--England--Stratford-upon-Avon",
+        "Stratford-upon-Avon (England)--Buildings, structures, etc--Pictorial works"
+      ]
+    },
+    {
+      "label": "Location",
+      "value": "Boston Public Library"
+    },
+    {
+      "label": "Collection (local)",
+      "value": "Norman B. Leventhal Map Center Collection"
+    },
+    {
+      "label": "Identifier",
+      "value": [
+        "https://ark.digitalcommonwealth.org/ark:/50959/q524n3940",
+        "06_01_015731",
+        "AP4 .I3",
+        "30000005817476"
+      ]
+    },
+    {
+      "label": "Terms of Use",
+      "value": [
+        "No known copyright restrictions.",
+        "No known restrictions on use."
+      ]
+    }
+  ],
+  "description": "William Shakespeare is believed to have been born on April 23, 1564, in the town of Stratford-upon-Avon, Warwickshire, some 100 miles from London. His father John was a glove maker and eventually Mayor of Stratford, and his mother Mary was the daughter of a prosperous farmer. The 19th-century images displayed here illustrate the house where William was born, the grammar school he attended, and other places of interest in Stratford. Shakespeare's career took him to London in 1592, while his wife Anne Hathaway and their three children remained in Stratford. Shakespeare returned to his hometown in 1611, and died there in 1616.",
+  "attribution": "No known copyright restrictions. No known restrictions on use. ",
+  "seeAlso": "https://ark.digitalcommonwealth.org/ark:/50959/q524n3940",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://ark.digitalcommonwealth.org/ark:/50959/q524n3940/canvas/q524n3958",
+          "@type": "sc:Canvas",
+          "label": "image 1",
+          "width": 6203,
+          "height": 4419,
+          "images": [
+            {
+              "@id": "https://ark.digitalcommonwealth.org/ark:/50959/q524n3940/annotation/q524n3958",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ark.digitalcommonwealth.org/ark:/50959/q524n3958/large_image",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6203,
+                "height": 4419,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n3958",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://ark.digitalcommonwealth.org/ark:/50959/q524n3940/canvas/q524n3958"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
