@@ -1,0 +1,115 @@
+---
+---
+{
+  "viewingHint": "paged",
+  "attribution": "e-manuscripta.ch, the digital platform for manuscript material from Swiss libraries and archives",
+  "service": [],
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/deed.de",
+  "structures": [],
+  "sequences": [
+    {
+      "canvases": [
+        {
+          "height": 5054,
+          "width": 3795,
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://www.e-manuscripta.ch/zuzcmi/i3f/v20/3143017"
+                },
+                "format": "image/jpeg",
+                "height": 1331,
+                "width": 1000,
+                "@id": "https://www.e-manuscripta.ch/zuzcmi/download/webcache/1000/3143017",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://www.e-manuscripta.ch/zuzcmi/i3f/v20/3143016/canvas/3143017",
+              "motivation": "sc:painting",
+              "@id": "https://www.e-manuscripta.ch/zuzcmi/i3f/v20/3143016/annotation/3143017",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "label": "1739",
+          "@id": "https://www.e-manuscripta.ch/zuzcmi/i3f/v20/3143016/canvas/3143017",
+          "@type": "sc:Canvas"
+        }
+      ],
+      "viewingHint": "paged",
+      "startCanvas": "https://www.e-manuscripta.ch/zuzcmi/i3f/v20/3143016/canvas/3143017",
+      "viewingDirection": "left-to-right",
+      "label": "Current Page Order",
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://www.e-manuscripta.ch/zuzcmi/i3f/v20/3143016/sequence/normal",
+      "@type": "sc:Sequence"
+    }
+  ],
+  "label": "Willm: Shakespear.",
+  "thumbnail": {
+    "width": 304,
+    "height": 404,
+    "@id": "https://www.e-manuscripta.ch/zuzcmi/i3f/v21/3143017/full/304/0/default.jpg",
+    "@type": "dctypes:Image",
+    "format": "image/jpeg"
+  },
+  "logo": {
+    "@id": "https://www.e-manuscripta.ch/domainresource/static/graphics/connectors/emanusIco.gif",
+    "service": {
+      "profile": "http://iiif.io/api/image/2/level2.json",
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "http://www.zb.uzh.ch"
+    }
+  },
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "metadata": [
+    {
+      "value": "Willm: Shakespear.",
+      "label": "Titel"
+    },
+    {
+      "value": "Radierung und Kupferstich, Blatt beschnitten, mit schwarzem Rahmen umgeben und mit Textfeld versehen. Dargestellt ist William Shakespeare (1564-1616).",
+      "label": "Beschreibung"
+    },
+    {
+      "value": "ca. 1760 - 1801 [Handschriftliche Annotation datiert 12.04.1790]",
+      "label": "Entstehung"
+    },
+    {
+      "value": "1 Blatt mit 1 Druckgrafik (Papier 11 x 6,5 cm) und 1 Annotations-Schildchen",
+      "label": "Umfang"
+    },
+    {
+      "value": "Deutsch",
+      "label": "Sprache"
+    },
+    {
+      "value": "Zentralbibliothek Z\u00fcrich, FA Lavater Ms 84a.III.16",
+      "label": "Besitzende Institution"
+    },
+    {
+      "value": "Shakespeare, William",
+      "label": "Schlagwort"
+    },
+    {
+      "value": "https://doi.org/10.7891/e-manuscripta-110094",
+      "label": "Persistenter Link"
+    },
+    {
+      "value": "FA Lavater 1 - 1841; FA Lavater H 1001 - 1013; FA Lavater Ms 1 - 606 Lavater, Familie/FA Lavater 1741.1 - 5; 1741.8 - 30;  FA Lavater H 1001 - 1013; FA Lavater Ms 1 - 606 Lavater, Johann Caspar (1741-1801)/FA Lavater Ms 1 - 606 Dokumente von Johann Caspar Lavater (1741-1801) aus dem Besitz Georg Finsler (1819-1899)/Physiognomisches/Kleinformatige Portr\u00e4ts vorwiegend historischer Pers\u00f6nlichkeiten/Kupferportr\u00e4ts bekannter Pers\u00f6nlichkeiten aus England",
+      "label": "\u00dcbergeordnete Struktur"
+    },
+    {
+      "value": "Lavater, Familie",
+      "label": "Alle Digitalisate des Bestandes"
+    }
+  ],
+  "@id": "https://kboespflug.github.io/annonatate/manifests/v20/3143016/manifest.json",
+  "@type": "sc:Manifest",
+  "seeAlso": {
+    "format": "application/xml",
+    "@id": "https://www.e-manuscripta.ch/zuzcmi/oai?verb=GetRecord&metadataPrefix=mets&identifier=3143016",
+    "label": "METS"
+  }
+}
