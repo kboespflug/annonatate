@@ -1,0 +1,1436 @@
+---
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://kboespflug.github.io/annonatate/manifests/server.collections.folger.edu/iiif/manifest.json",
+  "@type": "sc:Manifest",
+  "viewingDirection": "left-to-right",
+  "label": "Marcius-Simons, Pinckney. [Illustrations to A midsummer night's dream]",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "Marcius-Simons, Pinckney. [Illustrations to A midsummer night's dream]"
+    },
+    {
+      "label": "Extended Title",
+      "value": "[Illustrations to A midsummer night's dream] P. Marcius-Simons"
+    },
+    {
+      "label": "Creator",
+      "value": "Marcius-Simons, Pinckney, 1867-1909"
+    },
+    {
+      "label": "Caption",
+      "value": "Bayreuth, 1908"
+    },
+    {
+      "label": "Date",
+      "value": "1908"
+    },
+    {
+      "label": "Location",
+      "value": [
+        "Germany"
+      ]
+    },
+    {
+      "label": "Reference ID",
+      "value": "ART Vol. a71"
+    },
+    {
+      "label": "Media format",
+      "value": [
+        "Image"
+      ]
+    },
+    {
+      "label": "Extent",
+      "value": "47 items in 1 v."
+    },
+    {
+      "label": "Size",
+      "value": "25 cm"
+    },
+    {
+      "label": "Language",
+      "value": [
+        "zxx"
+      ]
+    },
+    {
+      "label": "Genre",
+      "value": [
+        "Artists' books"
+      ]
+    },
+    {
+      "label": "Subjects",
+      "value": [
+        "Shakespeare, William, 1564-1616. Midsummer night's dream",
+        "Symbolism (Art movement)"
+      ]
+    },
+    {
+      "label": "Summary",
+      "value": "46 two page spreads plus the two page spread of the cover which is done on vellum. The watercolors cover the entire surface of each page in the volume. They are fanciful illustrations, based on quotations from the pages illustrated. The quotations are often written in English by the artist. The work is signed on the last page: P. Marcius - Simons Bayreuth 1908"
+    },
+    {
+      "label": "General notes",
+      "value": "Artist: Marcius-Simons is listed in some sources under the name Simons and is noted as exhibiting in London, Paris, New York and Bayreuth. He was a genre painter who did works based on the Parsifal story and the Ring cycle, this he notes in the paragraph above his signature on this item. Three catalogs of exhibitions of his works are listed in National Union Catalog. Grave's listing of Royal Academy exhibitors gives him a Northampton address in 1891\nHistory: The watercolors are painted onto the surface of the printed edition of Paul Meurice's translation of Midsummer night's dream into French, 1886. The painting, however, was done in 1908\nSubject: The subject matter of the paintings is abstractly illustrative, often featuring symbols in passages rather than actions. There are many portrayals of the moon juxtaposed with the sun. The quotation 'That he hath turned heaven into hell' is illustrated. Much of the work portrays elements of the natural and supernatural world\nProvenance: The item contains an inscription from the artist to Arthur Meyer and was purchased by the Folgers from Maggs, July 17, 1924\nAlso available as a digital reproduction"
+    },
+    {
+      "label": "Exhibited",
+      "value": "Washington, D.C., Folger Shakespeare Library, 1992. Fine and Historic Bookbindings (catalog entry 15:10)\nWashington, D.C., Folger Shakespeare Library, 2001\nWashington, D.C., Folger Shakespeare Library, 2010. Extending the Book"
+    },
+    {
+      "label": "Folger bibliographic ID",
+      "value": "258414"
+    },
+    {
+      "label": "Folger call number",
+      "value": "ART Vol. a71"
+    },
+    {
+      "label": "Folger holdings ID",
+      "value": "341584"
+    }
+  ],
+  "attribution": "Created by:Marcius-Simons, Pinckney, 1867-1909, Caption:Bayreuth, 1908",
+  "logo": {
+    "@id": "https://static.collections.folger.edu/dap-client-frontend/1.15.1/dist/components/uv/logo.png"
+  },
+  "rendering": {
+    "@id": "http://collections.folger.edu/detail/record/d7b782e9-9df4-44c0-ad1b-1a08b79e21d7",
+    "label": "View on Miranda",
+    "format": "text/html"
+  },
+  "sequences": [
+    {
+      "@id": "https://iiif.collections.folger.edu/iiif/2/sequence/normal",
+      "@type": "sc:Sequence",
+      "label": "_sequence_label_",
+      "canvases": [
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/4c343da8-8bc7-42f2-9704-e925d7fb7d35",
+          "@type": "sc:Canvas",
+          "height": "6135",
+          "width": "4422",
+          "label": "front outside cover",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/4c343da8-8bc7-42f2-9704-e925d7fb7d35",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/4c343da8-8bc7-42f2-9704-e925d7fb7d35.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/4c343da8-8bc7-42f2-9704-e925d7fb7d35.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/28ec88ea-dd0d-43e0-b5ea-dd772b5fb364",
+          "@type": "sc:Canvas",
+          "height": "4602",
+          "width": "6270",
+          "label": "front inside cover || front endleaf 1 recto",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/28ec88ea-dd0d-43e0-b5ea-dd772b5fb364",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/28ec88ea-dd0d-43e0-b5ea-dd772b5fb364.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/28ec88ea-dd0d-43e0-b5ea-dd772b5fb364.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/6da6d2e0-a4a9-43f9-aa02-a79a1c0af44d",
+          "@type": "sc:Canvas",
+          "height": "4561",
+          "width": "6274",
+          "label": "front endleaf 1 verso || front endleaf 2 recto",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/6da6d2e0-a4a9-43f9-aa02-a79a1c0af44d",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/6da6d2e0-a4a9-43f9-aa02-a79a1c0af44d.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/6da6d2e0-a4a9-43f9-aa02-a79a1c0af44d.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/33c91ab7-83f3-4fbf-9f0e-f238d2f0f037",
+          "@type": "sc:Canvas",
+          "height": "4573",
+          "width": "6291",
+          "label": "front endleaf 2 verso || front endleaf 3 recto",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/33c91ab7-83f3-4fbf-9f0e-f238d2f0f037",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/33c91ab7-83f3-4fbf-9f0e-f238d2f0f037.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/33c91ab7-83f3-4fbf-9f0e-f238d2f0f037.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/10032a93-4096-42e9-b56b-b6d15db6e5b3",
+          "@type": "sc:Canvas",
+          "height": "4555",
+          "width": "6286",
+          "label": "front endleaf 3 verso || first title page recto",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/10032a93-4096-42e9-b56b-b6d15db6e5b3",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/10032a93-4096-42e9-b56b-b6d15db6e5b3.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/10032a93-4096-42e9-b56b-b6d15db6e5b3.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/91106f29-a75b-411d-9780-7d7f4098af5b",
+          "@type": "sc:Canvas",
+          "height": "4573",
+          "width": "6301",
+          "label": "first title page verso || second title page recto",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/91106f29-a75b-411d-9780-7d7f4098af5b",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/91106f29-a75b-411d-9780-7d7f4098af5b.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/91106f29-a75b-411d-9780-7d7f4098af5b.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/3008a971-a372-417b-8fd3-2af30fceb9ba",
+          "@type": "sc:Canvas",
+          "height": "4561",
+          "width": "6324",
+          "label": "second title page verso || third title page recto",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/3008a971-a372-417b-8fd3-2af30fceb9ba",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/3008a971-a372-417b-8fd3-2af30fceb9ba.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/3008a971-a372-417b-8fd3-2af30fceb9ba.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/6319cffb-2a58-448f-a922-8e419abd92d2",
+          "@type": "sc:Canvas",
+          "height": "4543",
+          "width": "6330",
+          "label": "third title page verso || page 1",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/6319cffb-2a58-448f-a922-8e419abd92d2",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/6319cffb-2a58-448f-a922-8e419abd92d2.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/6319cffb-2a58-448f-a922-8e419abd92d2.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/008d72e1-72b6-4f62-b13c-62b5e0ae4e21",
+          "@type": "sc:Canvas",
+          "height": "4579",
+          "width": "6336",
+          "label": "page 2 || page 3",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/008d72e1-72b6-4f62-b13c-62b5e0ae4e21",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/008d72e1-72b6-4f62-b13c-62b5e0ae4e21.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/008d72e1-72b6-4f62-b13c-62b5e0ae4e21.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/889eb41e-feb2-4896-af73-232091a7b527",
+          "@type": "sc:Canvas",
+          "height": "4561",
+          "width": "6336",
+          "label": "page 4 || page 5",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/889eb41e-feb2-4896-af73-232091a7b527",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/889eb41e-feb2-4896-af73-232091a7b527.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/889eb41e-feb2-4896-af73-232091a7b527.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/35e8dc9c-f917-4336-b953-00aa624ef3bc",
+          "@type": "sc:Canvas",
+          "height": "4573",
+          "width": "6342",
+          "label": "page 6 || page 7",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/35e8dc9c-f917-4336-b953-00aa624ef3bc",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/35e8dc9c-f917-4336-b953-00aa624ef3bc.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/35e8dc9c-f917-4336-b953-00aa624ef3bc.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/3d8b1f07-5891-4cb5-8edb-ce1913fcac26",
+          "@type": "sc:Canvas",
+          "height": "4561",
+          "width": "6343",
+          "label": "page 8 || page 9",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/3d8b1f07-5891-4cb5-8edb-ce1913fcac26",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/3d8b1f07-5891-4cb5-8edb-ce1913fcac26.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/3d8b1f07-5891-4cb5-8edb-ce1913fcac26.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/b4b71757-4b00-4758-894d-5f9cddc3a32a",
+          "@type": "sc:Canvas",
+          "height": "4555",
+          "width": "6337",
+          "label": "page 10 || page 11",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/b4b71757-4b00-4758-894d-5f9cddc3a32a",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/b4b71757-4b00-4758-894d-5f9cddc3a32a.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/b4b71757-4b00-4758-894d-5f9cddc3a32a.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/e9724115-89ef-4f49-9a1f-43d08e75768b",
+          "@type": "sc:Canvas",
+          "height": "4555",
+          "width": "6343",
+          "label": "page 12 || page 13",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/e9724115-89ef-4f49-9a1f-43d08e75768b",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/e9724115-89ef-4f49-9a1f-43d08e75768b.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/e9724115-89ef-4f49-9a1f-43d08e75768b.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/7d63657a-73b1-47c8-8ec7-96f6489dc3e8",
+          "@type": "sc:Canvas",
+          "height": "4567",
+          "width": "6360",
+          "label": "page 14 || page 15",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/7d63657a-73b1-47c8-8ec7-96f6489dc3e8",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/7d63657a-73b1-47c8-8ec7-96f6489dc3e8.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/7d63657a-73b1-47c8-8ec7-96f6489dc3e8.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/0e868141-1bd7-4e9c-a50c-3fd9cb1a5f44",
+          "@type": "sc:Canvas",
+          "height": "4585",
+          "width": "6396",
+          "label": "page 16 || page 17",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/0e868141-1bd7-4e9c-a50c-3fd9cb1a5f44",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/0e868141-1bd7-4e9c-a50c-3fd9cb1a5f44.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/0e868141-1bd7-4e9c-a50c-3fd9cb1a5f44.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/4f3ec0f5-8e52-4b89-9e47-65ec00ae7ea6",
+          "@type": "sc:Canvas",
+          "height": "4548",
+          "width": "6412",
+          "label": "page 18 || page 19",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/4f3ec0f5-8e52-4b89-9e47-65ec00ae7ea6",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/4f3ec0f5-8e52-4b89-9e47-65ec00ae7ea6.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/4f3ec0f5-8e52-4b89-9e47-65ec00ae7ea6.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/dc292119-2377-4be5-acb2-ed269bfaf81f",
+          "@type": "sc:Canvas",
+          "height": "4548",
+          "width": "6382",
+          "label": "page 20 || page 21",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/dc292119-2377-4be5-acb2-ed269bfaf81f",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/dc292119-2377-4be5-acb2-ed269bfaf81f.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/dc292119-2377-4be5-acb2-ed269bfaf81f.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/8bcdbdeb-072d-4ec6-9d08-cbc453782f9b",
+          "@type": "sc:Canvas",
+          "height": "4552",
+          "width": "6388",
+          "label": "page 22 || page 23",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/8bcdbdeb-072d-4ec6-9d08-cbc453782f9b",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/8bcdbdeb-072d-4ec6-9d08-cbc453782f9b.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/8bcdbdeb-072d-4ec6-9d08-cbc453782f9b.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/75d45cd8-488a-4d03-a756-15a459e6bec5",
+          "@type": "sc:Canvas",
+          "height": "4569",
+          "width": "6406",
+          "label": "page 24 || page 25",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/75d45cd8-488a-4d03-a756-15a459e6bec5",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/75d45cd8-488a-4d03-a756-15a459e6bec5.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/75d45cd8-488a-4d03-a756-15a459e6bec5.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/9c9b9c73-5aa2-490d-850d-007ad9e797a9",
+          "@type": "sc:Canvas",
+          "height": "4587",
+          "width": "6436",
+          "label": "page 26 || page 27",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/9c9b9c73-5aa2-490d-850d-007ad9e797a9",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/9c9b9c73-5aa2-490d-850d-007ad9e797a9.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/9c9b9c73-5aa2-490d-850d-007ad9e797a9.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/1fa9ecd2-e9af-4858-9703-d5dafad1508b",
+          "@type": "sc:Canvas",
+          "height": "4599",
+          "width": "6406",
+          "label": "page 28 || page 29",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/1fa9ecd2-e9af-4858-9703-d5dafad1508b",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/1fa9ecd2-e9af-4858-9703-d5dafad1508b.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/1fa9ecd2-e9af-4858-9703-d5dafad1508b.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/e7fca08e-eb01-4441-af36-1701b078b056",
+          "@type": "sc:Canvas",
+          "height": "4575",
+          "width": "6433",
+          "label": "page 30 || page 31",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/e7fca08e-eb01-4441-af36-1701b078b056",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/e7fca08e-eb01-4441-af36-1701b078b056.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/e7fca08e-eb01-4441-af36-1701b078b056.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/74a816be-f447-4739-8c3a-4437eaf4117a",
+          "@type": "sc:Canvas",
+          "height": "4563",
+          "width": "6419",
+          "label": "page 32 || page 33",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/74a816be-f447-4739-8c3a-4437eaf4117a",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/74a816be-f447-4739-8c3a-4437eaf4117a.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/74a816be-f447-4739-8c3a-4437eaf4117a.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/e0c86e26-4291-48d0-88f5-075c1254c3ac",
+          "@type": "sc:Canvas",
+          "height": "4575",
+          "width": "6419",
+          "label": "page 34 || page 35",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/e0c86e26-4291-48d0-88f5-075c1254c3ac",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/e0c86e26-4291-48d0-88f5-075c1254c3ac.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/e0c86e26-4291-48d0-88f5-075c1254c3ac.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/ba5a7f18-8a63-418d-9f53-2a86e97a1ff8",
+          "@type": "sc:Canvas",
+          "height": "4563",
+          "width": "6431",
+          "label": "page 36 || page 37",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/ba5a7f18-8a63-418d-9f53-2a86e97a1ff8",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/ba5a7f18-8a63-418d-9f53-2a86e97a1ff8.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/ba5a7f18-8a63-418d-9f53-2a86e97a1ff8.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/7367c28a-0be7-46c4-95f0-8aa8d2d0782b",
+          "@type": "sc:Canvas",
+          "height": "4569",
+          "width": "6437",
+          "label": "page 38 || page 39",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/7367c28a-0be7-46c4-95f0-8aa8d2d0782b",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/7367c28a-0be7-46c4-95f0-8aa8d2d0782b.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/7367c28a-0be7-46c4-95f0-8aa8d2d0782b.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/20087b46-3de9-4ebb-a8e7-e6f07ff3a83b",
+          "@type": "sc:Canvas",
+          "height": "4573",
+          "width": "6445",
+          "label": "page 40 || page 41",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/20087b46-3de9-4ebb-a8e7-e6f07ff3a83b",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/20087b46-3de9-4ebb-a8e7-e6f07ff3a83b.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/20087b46-3de9-4ebb-a8e7-e6f07ff3a83b.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/71656dfc-74c6-47c7-8bec-147181bb7500",
+          "@type": "sc:Canvas",
+          "height": "4575",
+          "width": "6455",
+          "label": "page 42 || page 43",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/71656dfc-74c6-47c7-8bec-147181bb7500",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/71656dfc-74c6-47c7-8bec-147181bb7500.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/71656dfc-74c6-47c7-8bec-147181bb7500.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/0a6382ca-69e2-42fa-8c4c-fe0413028f5c",
+          "@type": "sc:Canvas",
+          "height": "4581",
+          "width": "6437",
+          "label": "page 44 || page 45",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/0a6382ca-69e2-42fa-8c4c-fe0413028f5c",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/0a6382ca-69e2-42fa-8c4c-fe0413028f5c.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/0a6382ca-69e2-42fa-8c4c-fe0413028f5c.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/61ecc200-d1da-4a6e-b161-6bc791d87efc",
+          "@type": "sc:Canvas",
+          "height": "4540",
+          "width": "6431",
+          "label": "page 46 || page 47",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/61ecc200-d1da-4a6e-b161-6bc791d87efc",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/61ecc200-d1da-4a6e-b161-6bc791d87efc.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/61ecc200-d1da-4a6e-b161-6bc791d87efc.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/271e91fb-34fe-4525-bd51-662f2ad16f47",
+          "@type": "sc:Canvas",
+          "height": "4541",
+          "width": "6441",
+          "label": "page 48 || page 49",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/271e91fb-34fe-4525-bd51-662f2ad16f47",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/271e91fb-34fe-4525-bd51-662f2ad16f47.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/271e91fb-34fe-4525-bd51-662f2ad16f47.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/ff69640e-5842-4c49-9f11-337e9a51b245",
+          "@type": "sc:Canvas",
+          "height": "4579",
+          "width": "6457",
+          "label": "page 50 || page 51",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/ff69640e-5842-4c49-9f11-337e9a51b245",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/ff69640e-5842-4c49-9f11-337e9a51b245.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/ff69640e-5842-4c49-9f11-337e9a51b245.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/4796f934-5120-4144-be2f-4774bf57448b",
+          "@type": "sc:Canvas",
+          "height": "4585",
+          "width": "6455",
+          "label": "page 52 || page 53",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/4796f934-5120-4144-be2f-4774bf57448b",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/4796f934-5120-4144-be2f-4774bf57448b.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/4796f934-5120-4144-be2f-4774bf57448b.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/8dc25fc6-9eb3-45e5-a79f-7735af079ffb",
+          "@type": "sc:Canvas",
+          "height": "4549",
+          "width": "6439",
+          "label": "page 54 || page 55",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/8dc25fc6-9eb3-45e5-a79f-7735af079ffb",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/8dc25fc6-9eb3-45e5-a79f-7735af079ffb.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/8dc25fc6-9eb3-45e5-a79f-7735af079ffb.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/260a3496-cf51-4ca3-92a0-0b2f9117eb90",
+          "@type": "sc:Canvas",
+          "height": "4562",
+          "width": "6446",
+          "label": "page 56 || page 57",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/260a3496-cf51-4ca3-92a0-0b2f9117eb90",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/260a3496-cf51-4ca3-92a0-0b2f9117eb90.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/260a3496-cf51-4ca3-92a0-0b2f9117eb90.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/be6f2887-a949-4146-8eaf-2b84d5908889",
+          "@type": "sc:Canvas",
+          "height": "4569",
+          "width": "6463",
+          "label": "page 58 || page 59",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/be6f2887-a949-4146-8eaf-2b84d5908889",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/be6f2887-a949-4146-8eaf-2b84d5908889.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/be6f2887-a949-4146-8eaf-2b84d5908889.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/2b1bf624-7b37-4043-82d0-64f8c995c1e0",
+          "@type": "sc:Canvas",
+          "height": "4599",
+          "width": "6493",
+          "label": "page 60 || page 61",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/2b1bf624-7b37-4043-82d0-64f8c995c1e0",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/2b1bf624-7b37-4043-82d0-64f8c995c1e0.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/2b1bf624-7b37-4043-82d0-64f8c995c1e0.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/45479d61-11c3-41f4-a1d7-9cd2b7dac4d3",
+          "@type": "sc:Canvas",
+          "height": "4600",
+          "width": "6475",
+          "label": "page 62 || page 63",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/45479d61-11c3-41f4-a1d7-9cd2b7dac4d3",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/45479d61-11c3-41f4-a1d7-9cd2b7dac4d3.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/45479d61-11c3-41f4-a1d7-9cd2b7dac4d3.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/ea7c24c9-3706-4394-b404-84a2cbf40420",
+          "@type": "sc:Canvas",
+          "height": "4579",
+          "width": "6469",
+          "label": "page 64 || page 65",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/ea7c24c9-3706-4394-b404-84a2cbf40420",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/ea7c24c9-3706-4394-b404-84a2cbf40420.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/ea7c24c9-3706-4394-b404-84a2cbf40420.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/4f6f53b1-3fe8-442e-9100-053d81122a59",
+          "@type": "sc:Canvas",
+          "height": "4552",
+          "width": "6425",
+          "label": "page 66 || page 67",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/4f6f53b1-3fe8-442e-9100-053d81122a59",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/4f6f53b1-3fe8-442e-9100-053d81122a59.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/4f6f53b1-3fe8-442e-9100-053d81122a59.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/e9d7c1df-afe0-447c-97a5-5c105260c973",
+          "@type": "sc:Canvas",
+          "height": "4547",
+          "width": "6441",
+          "label": "page 68 || page 69",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/e9d7c1df-afe0-447c-97a5-5c105260c973",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/e9d7c1df-afe0-447c-97a5-5c105260c973.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/e9d7c1df-afe0-447c-97a5-5c105260c973.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/ad511cef-7605-49f4-9c38-01c8b753a234",
+          "@type": "sc:Canvas",
+          "height": "4551",
+          "width": "6462",
+          "label": "page 70 || page 71",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/ad511cef-7605-49f4-9c38-01c8b753a234",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/ad511cef-7605-49f4-9c38-01c8b753a234.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/ad511cef-7605-49f4-9c38-01c8b753a234.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/a3ff6278-9da3-4008-a589-da51b750e560",
+          "@type": "sc:Canvas",
+          "height": "4552",
+          "width": "6435",
+          "label": "page 72 || page 73",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/a3ff6278-9da3-4008-a589-da51b750e560",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/a3ff6278-9da3-4008-a589-da51b750e560.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/a3ff6278-9da3-4008-a589-da51b750e560.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/d0a22aa5-4146-486f-b3e6-e615fa6fd246",
+          "@type": "sc:Canvas",
+          "height": "4567",
+          "width": "6436",
+          "label": "page 74 || page 75",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/d0a22aa5-4146-486f-b3e6-e615fa6fd246",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/d0a22aa5-4146-486f-b3e6-e615fa6fd246.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/d0a22aa5-4146-486f-b3e6-e615fa6fd246.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/df52f8e9-f115-47a6-b193-3b597efd393c",
+          "@type": "sc:Canvas",
+          "height": "4549",
+          "width": "6424",
+          "label": "page 76 || endleaf 1 recto",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/df52f8e9-f115-47a6-b193-3b597efd393c",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/df52f8e9-f115-47a6-b193-3b597efd393c.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/df52f8e9-f115-47a6-b193-3b597efd393c.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/689625dc-3815-456b-8de2-e70cc87c120e",
+          "@type": "sc:Canvas",
+          "height": "4555",
+          "width": "6424",
+          "label": "endleaf 1 verso || endleaf 2 recto",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/689625dc-3815-456b-8de2-e70cc87c120e",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/689625dc-3815-456b-8de2-e70cc87c120e.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/689625dc-3815-456b-8de2-e70cc87c120e.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/1f03afdc-62c1-48b8-884d-f68bb240ed65",
+          "@type": "sc:Canvas",
+          "height": "4585",
+          "width": "6454",
+          "label": "endleaf 2 verso || endleaf 3 recto",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/1f03afdc-62c1-48b8-884d-f68bb240ed65",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/1f03afdc-62c1-48b8-884d-f68bb240ed65.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/1f03afdc-62c1-48b8-884d-f68bb240ed65.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/0191bf50-ada0-4e90-b91e-6219222be431",
+          "@type": "sc:Canvas",
+          "height": "4567",
+          "width": "6442",
+          "label": "endleaf 3 verso || endleaf 4 recto",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/0191bf50-ada0-4e90-b91e-6219222be431",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/0191bf50-ada0-4e90-b91e-6219222be431.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/0191bf50-ada0-4e90-b91e-6219222be431.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/20d1358e-776f-474d-8e76-5a546030e462",
+          "@type": "sc:Canvas",
+          "height": "4567",
+          "width": "6382",
+          "label": "endleaf 4 verso || back inside cover",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/20d1358e-776f-474d-8e76-5a546030e462",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/20d1358e-776f-474d-8e76-5a546030e462.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/20d1358e-776f-474d-8e76-5a546030e462.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/43d38cea-99f1-44d2-98cc-dd1704388f16",
+          "@type": "sc:Canvas",
+          "height": "6143",
+          "width": "4326",
+          "label": "back outside cover",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/43d38cea-99f1-44d2-98cc-dd1704388f16",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/43d38cea-99f1-44d2-98cc-dd1704388f16.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/43d38cea-99f1-44d2-98cc-dd1704388f16.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/bb577089-404c-4f20-85e5-f2e9a79e45dd",
+          "@type": "sc:Canvas",
+          "height": "7465",
+          "width": "795",
+          "label": "Spine",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/bb577089-404c-4f20-85e5-f2e9a79e45dd",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/bb577089-404c-4f20-85e5-f2e9a79e45dd.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/bb577089-404c-4f20-85e5-f2e9a79e45dd.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/e453dada-957b-4da6-a497-d15ff220b5fa",
+          "@type": "sc:Canvas",
+          "height": "6977",
+          "width": "1561",
+          "label": "Head",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/e453dada-957b-4da6-a497-d15ff220b5fa",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/e453dada-957b-4da6-a497-d15ff220b5fa.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/e453dada-957b-4da6-a497-d15ff220b5fa.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/a1304717-95e9-4d9a-ab2d-412463a9e375",
+          "@type": "sc:Canvas",
+          "height": "7503",
+          "width": "1319",
+          "label": "Fore-edge",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/a1304717-95e9-4d9a-ab2d-412463a9e375",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/a1304717-95e9-4d9a-ab2d-412463a9e375.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/a1304717-95e9-4d9a-ab2d-412463a9e375.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.collections.folger.edu/iiif/2/canvas/72cea932-9f7a-4b22-91b2-0f60cc4a8dde",
+          "@type": "sc:Canvas",
+          "height": "7057",
+          "width": "1594",
+          "label": "Tail",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.collections.folger.edu/iiif/2/canvas/72cea932-9f7a-4b22-91b2-0f60cc4a8dde",
+              "resource": {
+                "@id": "https://iiif.collections.folger.edu/iiif/2/72cea932-9f7a-4b22-91b2-0f60cc4a8dde.TIFF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.collections.folger.edu/iiif/2/72cea932-9f7a-4b22-91b2-0f60cc4a8dde.TIFF",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
